@@ -1,0 +1,2368 @@
+[
+	{
+		"continent": "Africa",
+		"flag": "https://upload.wikimedia.org/wikipedia/commons/7/77/Flag_of_Algeria.svg",
+		"map": "https://upload.wikimedia.org/wikipedia/commons/9/9a/Location_Algeria_AU_Africa.svg",
+		"name": "Algeria",
+		"domesticNames": [
+			{
+				"lang": "ar",
+				"text": "الجزائر—الجمهورية الجزائرية الديمقراطية الشعبية"
+			}
+		],
+		"capital": "Algiers",
+		"population": 44177969,
+		"area": 2381740,
+		"currency": "Algerian dinar"
+	},
+	{
+		"continent": "Africa",
+		"flag": "https://upload.wikimedia.org/wikipedia/commons/9/9d/Flag_of_Angola.svg",
+		"map": "https://upload.wikimedia.org/wikipedia/commons/c/ca/Location_Angola_AU_Africa.svg",
+		"name": "Angola",
+		"domesticNames": [],
+		"capital": "Luanda",
+		"population": 34503774,
+		"area": 1246700,
+		"currency": "kwanza"
+	},
+	{
+		"continent": "Africa",
+		"flag": "https://upload.wikimedia.org/wikipedia/commons/0/0a/Flag_of_Benin.svg",
+		"map": "https://upload.wikimedia.org/wikipedia/commons/b/b6/Location_Benin_AU_Africa.svg",
+		"name": "Benin",
+		"domesticNames": [],
+		"capital": "Porto-Novo",
+		"population": 12996895,
+		"area": 112622,
+		"currency": "CFA franc"
+	},
+	{
+		"continent": "Africa",
+		"flag": "https://upload.wikimedia.org/wikipedia/commons/f/fa/Flag_of_Botswana.svg",
+		"map": "https://upload.wikimedia.org/wikipedia/commons/a/a8/Location_Botswana_AU_Africa.svg",
+		"name": "Botswana",
+		"domesticNames": [],
+		"capital": "Gaborone",
+		"population": 2588423,
+		"area": 581726,
+		"currency": "pula"
+	},
+	{
+		"continent": "Africa",
+		"flag": "https://upload.wikimedia.org/wikipedia/commons/3/31/Flag_of_Burkina_Faso.svg",
+		"map": "https://upload.wikimedia.org/wikipedia/commons/3/35/Location_Burkina_Faso_AU_Africa.svg",
+		"name": "Burkina Faso",
+		"domesticNames": [],
+		"capital": "Ouagadougou",
+		"population": 22100683,
+		"area": 274000,
+		"currency": "CFA franc"
+	},
+	{
+		"continent": "Africa",
+		"flag": "https://upload.wikimedia.org/wikipedia/commons/5/50/Flag_of_Burundi.svg",
+		"map": "https://upload.wikimedia.org/wikipedia/commons/4/43/Location_Burundi_AU_Africa.svg",
+		"name": "Burundi",
+		"domesticNames": [],
+		"capital": "Gitega",
+		"population": 12551213,
+		"area": 27830,
+		"currency": "Burundi franc"
+	},
+	{
+		"continent": "Africa",
+		"flag": "https://upload.wikimedia.org/wikipedia/commons/4/4f/Flag_of_Cameroon.svg",
+		"map": "https://upload.wikimedia.org/wikipedia/commons/4/42/Location_Cameroon_AU_Africa.svg",
+		"name": "Cameroon",
+		"domesticNames": [],
+		"capital": "Yaoundé",
+		"population": 27198628,
+		"area": 475442,
+		"currency": "CFA franc"
+	},
+	{
+		"continent": "Africa",
+		"flag": "https://upload.wikimedia.org/wikipedia/commons/3/38/Flag_of_Cape_Verde.svg",
+		"map": "https://upload.wikimedia.org/wikipedia/commons/d/d8/Location_Cape_Verde_AU_Africa.svg",
+		"name": "Cape Verde",
+		"domesticNames": [],
+		"capital": "Praia",
+		"population": 587925,
+		"area": 4033,
+		"currency": "Cape Verdean escudo"
+	},
+	{
+		"continent": "Africa",
+		"flag": "https://upload.wikimedia.org/wikipedia/commons/6/6f/Flag_of_the_Central_African_Republic.svg",
+		"map": "https://upload.wikimedia.org/wikipedia/commons/f/f0/Location_Central_African_Republic_AU_Africa.svg",
+		"name": "Central African Republic",
+		"domesticNames": [],
+		"capital": "Bangui",
+		"population": 5457154,
+		"area": 622984,
+		"currency": "CFA franc"
+	},
+	{
+		"continent": "Africa",
+		"flag": "https://upload.wikimedia.org/wikipedia/commons/4/4b/Flag_of_Chad.svg",
+		"map": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Location_Chad_AU_Africa.svg",
+		"name": "Chad",
+		"domesticNames": [{ "lang": "ar", "text": "تشاد—جمهورية تشاد" }],
+		"capital": "N'Djamena",
+		"population": 17179740,
+		"area": 1284000,
+		"currency": "CFA franc"
+	},
+	{
+		"continent": "Africa",
+		"flag": "https://upload.wikimedia.org/wikipedia/commons/9/94/Flag_of_the_Comoros.svg",
+		"map": "https://upload.wikimedia.org/wikipedia/commons/2/25/Location_Comoros_AU_Africa.svg",
+		"name": "Comoros",
+		"domesticNames": [
+			{ "lang": "ar", "text": "جزرالقمر—جمهورية القمرالمتحدة" }
+		],
+		"capital": "Moroni",
+		"population": 821625,
+		"area": 2235,
+		"currency": "Comorian franc"
+	},
+	{
+		"continent": "Africa",
+		"flag": "https://upload.wikimedia.org/wikipedia/commons/6/6f/Flag_of_the_Democratic_Republic_of_the_Congo.svg",
+		"map": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Location_DR_Congo_AU_Africa.svg",
+		"name": "Democratic Republic of the Congo",
+		"domesticNames": [],
+		"capital": "Kinshasa",
+		"population": 95894118,
+		"area": 2344858,
+		"currency": "Congolese franc"
+	},
+	{
+		"continent": "Africa",
+		"flag": "https://upload.wikimedia.org/wikipedia/commons/9/92/Flag_of_the_Republic_of_the_Congo.svg",
+		"map": "https://upload.wikimedia.org/wikipedia/commons/b/ba/Location_Republic_of_the_Congo_AU_Africa.svg",
+		"name": "Republic of the Congo",
+		"domesticNames": [],
+		"capital": "Brazzaville",
+		"population": 5835806,
+		"area": 342000,
+		"currency": "CFA franc"
+	},
+	{
+		"continent": "Africa",
+		"flag": "https://upload.wikimedia.org/wikipedia/commons/3/34/Flag_of_Djibouti.svg",
+		"map": "https://upload.wikimedia.org/wikipedia/commons/5/53/Location_Djibouti_AU_Africa.svg",
+		"name": "Djibouti",
+		"domesticNames": [{ "lang": "ar", "text": "جيبوتي—جمهورية جيبوتي" }],
+		"capital": "Djibouti",
+		"population": 1105557,
+		"area": 23200,
+		"currency": "Djibouti franc"
+	},
+	{
+		"continent": "Africa",
+		"flag": "https://upload.wikimedia.org/wikipedia/commons/3/31/Flag_of_Equatorial_Guinea.svg",
+		"map": "https://upload.wikimedia.org/wikipedia/commons/e/e2/Location_Equatorial_Guinea_AU_Africa.svg",
+		"name": "Equatorial Guinea",
+		"domesticNames": [],
+		"capital": "Malabo",
+		"population": 1634466,
+		"area": 28051,
+		"currency": "CFA franc"
+	},
+	{
+		"continent": "Africa",
+		"flag": "https://upload.wikimedia.org/wikipedia/commons/2/29/Flag_of_Eritrea.svg",
+		"map": "https://upload.wikimedia.org/wikipedia/commons/9/9f/Location_Eritrea_AU_Africa.svg",
+		"name": "Eritrea",
+		"domesticNames": [{ "lang": "ar", "text": "إرتريا—دولة إرتريا" }],
+		"capital": "Asmara",
+		"population": 3620312,
+		"area": 117600,
+		"currency": "nakfa"
+	},
+	{
+		"continent": "Africa",
+		"flag": "https://upload.wikimedia.org/wikipedia/commons/f/fb/Flag_of_Eswatini.svg",
+		"map": "https://upload.wikimedia.org/wikipedia/commons/c/c4/Location_Eswatini_AU_Africa.svg",
+		"name": "Eswatini",
+		"domesticNames": [],
+		"capital": "Lobamba",
+		"population": 1192271,
+		"area": 17364,
+		"currency": "lilangeni"
+	},
+	{
+		"continent": "Africa",
+		"flag": "https://upload.wikimedia.org/wikipedia/commons/7/71/Flag_of_Ethiopia.svg",
+		"map": "https://upload.wikimedia.org/wikipedia/commons/e/e7/Location_Ethiopia_AU_Africa.svg",
+		"name": "Ethiopia",
+		"domesticNames": [],
+		"capital": "Addis Ababa",
+		"population": 120283026,
+		"area": 1104300,
+		"currency": "Ethiopian birr"
+	},
+	{
+		"continent": "Africa",
+		"flag": "https://upload.wikimedia.org/wikipedia/commons/0/04/Flag_of_Gabon.svg",
+		"map": "https://upload.wikimedia.org/wikipedia/commons/9/9c/Location_Gabon_AU_Africa.svg",
+		"name": "Gabon",
+		"domesticNames": [],
+		"capital": "Libreville",
+		"population": 2341179,
+		"area": 267668,
+		"currency": "CFA franc"
+	},
+	{
+		"continent": "Africa",
+		"flag": "https://upload.wikimedia.org/wikipedia/commons/7/77/Flag_of_The_Gambia.svg",
+		"map": "https://upload.wikimedia.org/wikipedia/commons/5/52/Location_Gambia_AU_Africa.svg",
+		"name": "The Gambia",
+		"domesticNames": [],
+		"capital": "Banjul",
+		"population": 2639916,
+		"area": 10380,
+		"currency": "dalasi"
+	},
+	{
+		"continent": "Africa",
+		"flag": "https://upload.wikimedia.org/wikipedia/commons/1/19/Flag_of_Ghana.svg",
+		"map": "https://upload.wikimedia.org/wikipedia/commons/5/5b/Location_Ghana_AU_Africa.svg",
+		"name": "Ghana",
+		"domesticNames": [],
+		"capital": "Accra",
+		"population": 32833031,
+		"area": 238534,
+		"currency": "Ghana cedi"
+	},
+	{
+		"continent": "Africa",
+		"flag": "https://upload.wikimedia.org/wikipedia/commons/e/ed/Flag_of_Guinea.svg",
+		"map": "https://upload.wikimedia.org/wikipedia/commons/0/04/Location_Guinea_AU_Africa.svg",
+		"name": "Guinea",
+		"domesticNames": [],
+		"capital": "Conakry",
+		"population": 13531906,
+		"area": 245857,
+		"currency": "Guinean franc"
+	},
+	{
+		"continent": "Africa",
+		"flag": "https://upload.wikimedia.org/wikipedia/commons/0/01/Flag_of_Guinea-Bissau.svg",
+		"map": "https://upload.wikimedia.org/wikipedia/commons/f/fe/Location_Guinea_Bissau_AU_Africa.svg",
+		"name": "Guinea-Bissau",
+		"domesticNames": [],
+		"capital": "Bissau",
+		"population": 2060721,
+		"area": 36125,
+		"currency": "CFA franc"
+	},
+	{
+		"continent": "Africa",
+		"flag": "https://upload.wikimedia.org/wikipedia/commons/f/fe/Flag_of_C%C3%B4te_d%27Ivoire.svg",
+		"map": "https://upload.wikimedia.org/wikipedia/commons/c/cd/Location_C%C3%B4te_d%27Ivoire_AU_Africa.svg",
+		"name": "Ivory Coast",
+		"domesticNames": [],
+		"capital": "Yamoussoukro",
+		"population": 27478249,
+		"area": 322460,
+		"currency": "CFA franc"
+	},
+	{
+		"continent": "Africa",
+		"flag": "https://upload.wikimedia.org/wikipedia/commons/4/49/Flag_of_Kenya.svg",
+		"map": "https://upload.wikimedia.org/wikipedia/commons/1/16/Location_Kenya_AU_Africa.svg",
+		"name": "Kenya",
+		"domesticNames": [],
+		"capital": "Nairobi",
+		"population": 53005614,
+		"area": 580367,
+		"currency": "Kenyan shilling"
+	},
+	{
+		"continent": "Africa",
+		"flag": "https://upload.wikimedia.org/wikipedia/commons/4/4a/Flag_of_Lesotho.svg",
+		"map": "https://upload.wikimedia.org/wikipedia/commons/d/d2/Location_Lesotho_AU_Africa.svg",
+		"name": "Lesotho",
+		"domesticNames": [],
+		"capital": "Maseru",
+		"population": 2281454,
+		"area": 30355,
+		"currency": "loti"
+	},
+	{
+		"continent": "Africa",
+		"flag": "https://upload.wikimedia.org/wikipedia/commons/b/b8/Flag_of_Liberia.svg",
+		"map": "https://upload.wikimedia.org/wikipedia/commons/6/6f/Location_Liberia_AU_Africa.svg",
+		"name": "Liberia",
+		"domesticNames": [],
+		"capital": "Monrovia",
+		"population": 5193416,
+		"area": 111369,
+		"currency": "Liberian dollar"
+	},
+	{
+		"continent": "Africa",
+		"flag": "https://upload.wikimedia.org/wikipedia/commons/0/05/Flag_of_Libya.svg",
+		"map": "https://upload.wikimedia.org/wikipedia/commons/1/1b/Location_Libya_AU_Africa.svg",
+		"name": "Libya",
+		"domesticNames": [{ "lang": "ar", "text": "ليبيا—دولة ليبيا" }],
+		"capital": "Tripoli",
+		"population": 6735277,
+		"area": 1759540,
+		"currency": "Libyan dinar"
+	},
+	{
+		"continent": "Africa",
+		"flag": "https://upload.wikimedia.org/wikipedia/commons/b/bc/Flag_of_Madagascar.svg",
+		"map": "https://upload.wikimedia.org/wikipedia/commons/4/41/Location_Madagascar_AU_Africa.svg",
+		"name": "Madagascar",
+		"domesticNames": [],
+		"capital": "Antananarivo",
+		"population": 28915653,
+		"area": 587041,
+		"currency": "ariary"
+	},
+	{
+		"continent": "Africa",
+		"flag": "https://upload.wikimedia.org/wikipedia/commons/d/d1/Flag_of_Malawi.svg",
+		"map": "https://upload.wikimedia.org/wikipedia/commons/a/ab/Location_Malawi_AU_Africa.svg",
+		"name": "Malawi",
+		"domesticNames": [],
+		"capital": "Lilongwe",
+		"population": 19889742,
+		"area": 118484,
+		"currency": "Malawian kwacha"
+	},
+	{
+		"continent": "Africa",
+		"flag": "https://upload.wikimedia.org/wikipedia/commons/9/92/Flag_of_Mali.svg",
+		"map": "https://upload.wikimedia.org/wikipedia/commons/4/45/Location_Mali_AU_Africa.svg",
+		"name": "Mali",
+		"domesticNames": [],
+		"capital": "Bamako",
+		"population": 21904983,
+		"area": 1240192,
+		"currency": "CFA franc"
+	},
+	{
+		"continent": "Africa",
+		"flag": "https://upload.wikimedia.org/wikipedia/commons/4/43/Flag_of_Mauritania.svg",
+		"map": "https://upload.wikimedia.org/wikipedia/commons/4/4a/Location_Mauritania_AU_Africa.svg",
+		"name": "Mauritania",
+		"domesticNames": [
+			{ "lang": "ar", "text": "موريتانيا—الجمهورية الإسلامية الموريتانية" }
+		],
+		"capital": "Nouakchott",
+		"population": 4614974,
+		"area": 1030700,
+		"currency": "ouguiya"
+	},
+	{
+		"continent": "Africa",
+		"flag": "https://upload.wikimedia.org/wikipedia/commons/7/77/Flag_of_Mauritius.svg",
+		"map": "https://upload.wikimedia.org/wikipedia/commons/6/66/Location_Mauritius_AU_Africa.svg",
+		"name": "Mauritius",
+		"domesticNames": [],
+		"capital": "Port Louis",
+		"population": 1298915,
+		"area": 2040,
+		"currency": "Mauritian rupee"
+	},
+	{
+		"continent": "Africa",
+		"flag": "https://upload.wikimedia.org/wikipedia/commons/2/2c/Flag_of_Morocco.svg",
+		"map": "https://upload.wikimedia.org/wikipedia/commons/e/e6/Location_Morocco_AU_Africa.svg",
+		"name": "Morocco",
+		"domesticNames": [{ "lang": "ar", "text": "المغرب—المملكة المغربية" }],
+		"capital": "Rabat",
+		"population": 37076584,
+		"area": 446550,
+		"currency": "Moroccan dirham"
+	},
+	{
+		"continent": "Africa",
+		"flag": "https://upload.wikimedia.org/wikipedia/commons/d/d0/Flag_of_Mozambique.svg",
+		"map": "https://upload.wikimedia.org/wikipedia/commons/3/32/Location_Mozambique_AU_Africa.svg",
+		"name": "Mozambique",
+		"domesticNames": [],
+		"capital": "Maputo",
+		"population": 32077072,
+		"area": 801590,
+		"currency": "metical"
+	},
+	{
+		"continent": "Africa",
+		"flag": "https://upload.wikimedia.org/wikipedia/commons/0/00/Flag_of_Namibia.svg",
+		"map": "https://upload.wikimedia.org/wikipedia/commons/6/67/Location_Namibia_AU_Africa.svg",
+		"name": "Namibia",
+		"domesticNames": [],
+		"capital": "Windhoek",
+		"population": 2530151,
+		"area": 825418,
+		"currency": "Namibian dollar"
+	},
+	{
+		"continent": "Africa",
+		"flag": "https://upload.wikimedia.org/wikipedia/commons/f/f4/Flag_of_Niger.svg",
+		"map": "https://upload.wikimedia.org/wikipedia/commons/6/68/Location_Niger_AU_Africa.svg",
+		"name": "Niger",
+		"domesticNames": [],
+		"capital": "Niamey",
+		"population": 25252722,
+		"area": 1267000,
+		"currency": "CFA franc"
+	},
+	{
+		"continent": "Africa",
+		"flag": "https://upload.wikimedia.org/wikipedia/commons/7/79/Flag_of_Nigeria.svg",
+		"map": "https://upload.wikimedia.org/wikipedia/commons/2/2d/Location_Nigeria_AU_Africa.svg",
+		"name": "Nigeria",
+		"domesticNames": [],
+		"capital": "Abuja",
+		"population": 213401323,
+		"area": 923768,
+		"currency": "naira"
+	},
+	{
+		"continent": "Africa",
+		"flag": "https://upload.wikimedia.org/wikipedia/commons/1/17/Flag_of_Rwanda.svg",
+		"map": "https://upload.wikimedia.org/wikipedia/commons/6/60/Location_Rwanda_AU_Africa.svg",
+		"name": "Rwanda",
+		"domesticNames": [],
+		"capital": "Kigali",
+		"population": 13461888,
+		"area": 26798,
+		"currency": "Rwandese franc"
+	},
+	{
+		"continent": "Africa",
+		"flag": "https://upload.wikimedia.org/wikipedia/commons/0/0a/Flag_of_S%C3%A3o_Tom%C3%A9_and_Pr%C3%ADncipe.svg",
+		"map": "https://upload.wikimedia.org/wikipedia/commons/3/35/Location_S%C3%A3o_Tom%C3%A9_and_Pr%C3%ADncipe_AU_Africa.svg",
+		"name": "São Tomé and Príncipe",
+		"domesticNames": [],
+		"capital": "São Tomé",
+		"population": 223107,
+		"area": 964,
+		"currency": "Dobra"
+	},
+	{
+		"continent": "Africa",
+		"flag": "https://upload.wikimedia.org/wikipedia/commons/f/fd/Flag_of_Senegal.svg",
+		"map": "https://upload.wikimedia.org/wikipedia/commons/3/33/Location_Senegal_AU_Africa.svg",
+		"name": "Senegal",
+		"domesticNames": [],
+		"capital": "Dakar",
+		"population": 16876720,
+		"area": 196723,
+		"currency": "CFA franc"
+	},
+	{
+		"continent": "Africa",
+		"flag": "https://upload.wikimedia.org/wikipedia/commons/f/fc/Flag_of_Seychelles.svg",
+		"map": "https://upload.wikimedia.org/wikipedia/commons/b/bd/Location_Seychelles_AU_Africa.svg",
+		"name": "Seychelles",
+		"domesticNames": [],
+		"capital": "Victoria",
+		"population": 106471,
+		"area": 451,
+		"currency": "Seychelles rupee"
+	},
+	{
+		"continent": "Africa",
+		"flag": "https://upload.wikimedia.org/wikipedia/commons/1/17/Flag_of_Sierra_Leone.svg",
+		"map": "https://upload.wikimedia.org/wikipedia/commons/4/4f/Location_Sierra_Leone_AU_Africa.svg",
+		"name": "Sierra Leone",
+		"domesticNames": [],
+		"capital": "Freetown",
+		"population": 8420641,
+		"area": 71740,
+		"currency": "leone"
+	},
+	{
+		"continent": "Africa",
+		"flag": "https://upload.wikimedia.org/wikipedia/commons/a/a0/Flag_of_Somalia.svg",
+		"map": "https://upload.wikimedia.org/wikipedia/commons/d/dd/Location_Somalia_AU_Africa.svg",
+		"name": "Somalia",
+		"domesticNames": [
+			{ "lang": "ar", "text": "الصومال—جمهورية الصومال الفيدرالية" }
+		],
+		"capital": "Mogadishu",
+		"population": 17065581,
+		"area": 637657,
+		"currency": "Somali shilling"
+	},
+	{
+		"continent": "Africa",
+		"flag": "https://upload.wikimedia.org/wikipedia/commons/a/af/Flag_of_South_Africa.svg",
+		"map": "https://upload.wikimedia.org/wikipedia/commons/8/85/Location_South_Africa_AU_Africa.svg",
+		"name": "South Africa",
+		"domesticNames": [],
+		"capital": "Bloemfontein",
+		"population": 59392255,
+		"area": 1221037,
+		"currency": "rand"
+	},
+	{
+		"continent": "Africa",
+		"flag": "https://upload.wikimedia.org/wikipedia/commons/7/7a/Flag_of_South_Sudan.svg",
+		"map": "https://upload.wikimedia.org/wikipedia/commons/b/b1/Location_South_Sudan_AU_Africa.svg",
+		"name": "South Sudan",
+		"domesticNames": [],
+		"capital": "Juba",
+		"population": 10748272,
+		"area": 644329,
+		"currency": "South Sudanese pound"
+	},
+	{
+		"continent": "Africa",
+		"flag": "https://upload.wikimedia.org/wikipedia/commons/0/01/Flag_of_Sudan.svg",
+		"map": "https://upload.wikimedia.org/wikipedia/commons/9/92/Location_Sudan_before_2011_AU_Africa.svg",
+		"name": "Sudan",
+		"domesticNames": [{ "lang": "ar", "text": "السودان—جمهورية السودان" }],
+		"capital": "Khartoum",
+		"population": 45657202,
+		"area": 1861484,
+		"currency": "Sudanese pound"
+	},
+	{
+		"continent": "Africa",
+		"flag": "https://upload.wikimedia.org/wikipedia/commons/3/38/Flag_of_Tanzania.svg",
+		"map": "https://upload.wikimedia.org/wikipedia/commons/8/83/Location_Tanzania_AU_Africa.svg",
+		"name": "Tanzania",
+		"domesticNames": [],
+		"capital": "Dodoma",
+		"population": 63588334,
+		"area": 945203,
+		"currency": "Tanzanian shilling"
+	},
+	{
+		"continent": "Africa",
+		"flag": "https://upload.wikimedia.org/wikipedia/commons/6/68/Flag_of_Togo.svg",
+		"map": "https://upload.wikimedia.org/wikipedia/commons/1/1b/Location_Togo_AU_Africa.svg",
+		"name": "Togo",
+		"domesticNames": [],
+		"capital": "Lomé",
+		"population": 8644829,
+		"area": 56785,
+		"currency": "CFA franc"
+	},
+	{
+		"continent": "Africa",
+		"flag": "https://upload.wikimedia.org/wikipedia/commons/c/ce/Flag_of_Tunisia.svg",
+		"map": "https://upload.wikimedia.org/wikipedia/commons/7/7c/Location_Tunisia_AU_Africa.svg",
+		"name": "Tunisia",
+		"domesticNames": [{ "lang": "ar", "text": "تونس—الجمهورية التونسية" }],
+		"capital": "Tunis",
+		"population": 12262946,
+		"area": 163610,
+		"currency": "Tunisian dinar"
+	},
+	{
+		"continent": "Africa",
+		"flag": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Flag_of_Uganda.svg",
+		"map": "https://upload.wikimedia.org/wikipedia/commons/e/e5/Location_Uganda_AU_Africa.svg",
+		"name": "Uganda",
+		"domesticNames": [],
+		"capital": "Kampala",
+		"population": 45853778,
+		"area": 236040,
+		"currency": "Ugandan shilling"
+	},
+	{
+		"continent": "Africa",
+		"flag": "https://upload.wikimedia.org/wikipedia/commons/0/06/Flag_of_Zambia.svg",
+		"map": "https://upload.wikimedia.org/wikipedia/commons/b/bb/Location_Zambia_AU_Africa.svg",
+		"name": "Zambia",
+		"domesticNames": [],
+		"capital": "Lusaka",
+		"population": 19473125,
+		"area": 752614,
+		"currency": "Zambian kwacha"
+	},
+	{
+		"continent": "Africa",
+		"flag": "https://upload.wikimedia.org/wikipedia/commons/6/6a/Flag_of_Zimbabwe.svg",
+		"map": "https://upload.wikimedia.org/wikipedia/commons/a/a1/Location_Zimbabwe_AU_Africa.svg",
+		"name": "Zimbabwe",
+		"domesticNames": [],
+		"capital": "Harare",
+		"population": 15993524,
+		"area": 390757,
+		"currency": "Zimbabwe dollar"
+	},
+	{
+		"continent": "Europe",
+		"flag": "https://upload.wikimedia.org/wikipedia/commons/3/36/Flag_of_Albania.svg",
+		"map": "https://upload.wikimedia.org/wikipedia/commons/c/ce/Europe-Albania.svg",
+		"name": "Albania",
+		"domesticNames": [
+			{ "lang": "sq", "text": "Shqipëri / Shqipëria – Republika e Shqipërisë" }
+		],
+		"capital": "Tirana",
+		"population": 2854710,
+		"area": 28748,
+		"currency": "Albanian lek"
+	},
+	{
+		"continent": "Europe",
+		"flag": "https://upload.wikimedia.org/wikipedia/commons/1/19/Flag_of_Andorra.svg",
+		"map": "https://upload.wikimedia.org/wikipedia/commons/1/12/Location_Andorra_Europe.png",
+		"name": "Andorra",
+		"domesticNames": [
+			{ "lang": "ca", "text": "Andorra – Principat d'Andorra" }
+		],
+		"capital": "Andorra la Vella",
+		"population": 79034,
+		"area": 468,
+		"currency": "Euro"
+	},
+	{
+		"continent": "Europe",
+		"flag": "https://upload.wikimedia.org/wikipedia/commons/4/41/Flag_of_Austria.svg",
+		"map": "https://upload.wikimedia.org/wikipedia/commons/9/9d/EU-Austria.svg",
+		"name": "Austria",
+		"domesticNames": [
+			{ "lang": "de", "text": "Österreich – Republik Österreich" }
+		],
+		"capital": "Vienna",
+		"population": 8922082,
+		"area": 83871,
+		"currency": "Euro"
+	},
+	{
+		"continent": "Europe",
+		"flag": "https://upload.wikimedia.org/wikipedia/commons/8/85/Flag_of_Belarus.svg",
+		"map": "https://upload.wikimedia.org/wikipedia/commons/a/af/Europe-Belarus.svg",
+		"name": "Belarus",
+		"domesticNames": [
+			{ "lang": "be", "text": "Беларусь – Рэспубліка Беларусь" },
+			{ "lang": "ru", "text": "Беларусь – Республика Беларусь" }
+		],
+		"capital": "Minsk",
+		"population": 9578167,
+		"area": 207600,
+		"currency": "Belarusian rouble"
+	},
+	{
+		"continent": "Europe",
+		"flag": "https://upload.wikimedia.org/wikipedia/commons/6/65/Flag_of_Belgium.svg",
+		"map": "https://upload.wikimedia.org/wikipedia/commons/6/67/EU-Belgium.svg",
+		"name": "Belgium",
+		"domesticNames": [
+			{ "lang": "nl", "text": "België – Koninkrijk België" },
+			{ "lang": "fr", "text": "Belgique – Royaume de Belgique" },
+			{ "lang": "de", "text": "Belgien – Königreich Belgien" }
+		],
+		"capital": "Brussels",
+		"population": 11611419,
+		"area": 30528,
+		"currency": "Euro"
+	},
+	{
+		"continent": "Europe",
+		"flag": "https://upload.wikimedia.org/wikipedia/commons/b/bf/Flag_of_Bosnia_and_Herzegovina.svg",
+		"map": "https://upload.wikimedia.org/wikipedia/commons/9/94/Europe-Bosnia_and_Herzegovina.svg",
+		"name": "Bosnia and Herzegovina",
+		"domesticNames": [],
+		"capital": "Sarajevo",
+		"population": 3270943,
+		"area": 51197,
+		"currency": "Bosnia and Herzegovina convertible mark"
+	},
+	{
+		"continent": "Europe",
+		"flag": "https://upload.wikimedia.org/wikipedia/commons/9/9a/Flag_of_Bulgaria.svg",
+		"map": "https://upload.wikimedia.org/wikipedia/commons/e/e9/EU-Bulgaria.svg",
+		"name": "Bulgaria",
+		"domesticNames": [
+			{ "lang": "bg", "text": "България – Република България" }
+		],
+		"capital": "Sofia",
+		"population": 6885868,
+		"area": 110879,
+		"currency": "Bulgarian lev"
+	},
+	{
+		"continent": "Europe",
+		"flag": "https://upload.wikimedia.org/wikipedia/commons/1/1b/Flag_of_Croatia.svg",
+		"map": "https://upload.wikimedia.org/wikipedia/commons/1/15/EU-Croatia.svg",
+		"name": "Croatia",
+		"domesticNames": [
+			{ "lang": "hr", "text": "Hrvatska – Republika Hrvatska" }
+		],
+		"capital": "Zagreb",
+		"population": 4060135,
+		"area": 56594,
+		"currency": "Euro"
+	},
+	{
+		"continent": "Europe",
+		"flag": "https://upload.wikimedia.org/wikipedia/commons/c/cb/Flag_of_the_Czech_Republic.svg",
+		"map": "https://upload.wikimedia.org/wikipedia/commons/3/31/EU-Czech_Republic.svg",
+		"name": "Czechia",
+		"domesticNames": [{ "lang": "cs", "text": "Česko – Česká republika" }],
+		"capital": "Prague",
+		"population": 10510751,
+		"area": 78867,
+		"currency": "Czech koruna"
+	},
+	{
+		"continent": "Europe",
+		"flag": "https://upload.wikimedia.org/wikipedia/commons/9/9c/Flag_of_Denmark.svg",
+		"map": "https://upload.wikimedia.org/wikipedia/commons/9/9a/EU-Denmark.svg",
+		"name": "Denmark",
+		"domesticNames": [{ "lang": "da", "text": "Danmark – Kongeriget Danmark" }],
+		"capital": "Copenhagen",
+		"population": 5854240,
+		"area": 42933,
+		"currency": "Danish krone"
+	},
+	{
+		"continent": "Europe",
+		"flag": "https://upload.wikimedia.org/wikipedia/commons/8/8f/Flag_of_Estonia.svg",
+		"map": "https://upload.wikimedia.org/wikipedia/commons/a/a2/EU-Estonia.svg",
+		"name": "Estonia",
+		"domesticNames": [{ "lang": "et", "text": "Eesti – Eesti Vabariik" }],
+		"capital": "Tallinn",
+		"population": 1328701,
+		"area": 45228,
+		"currency": "Euro"
+	},
+	{
+		"continent": "Europe",
+		"flag": "https://upload.wikimedia.org/wikipedia/commons/b/bc/Flag_of_Finland.svg",
+		"map": "https://upload.wikimedia.org/wikipedia/commons/6/6e/EU-Finland.svg",
+		"name": "Finland",
+		"domesticNames": [
+			{ "lang": "fi", "text": "Suomi – Suomen tasavalta" },
+			{ "lang": "sv", "text": "Finland – Republiken Finland" }
+		],
+		"capital": "Helsinki",
+		"population": 5535992,
+		"area": 338145,
+		"currency": "Euro"
+	},
+	{
+		"continent": "Europe",
+		"flag": "https://upload.wikimedia.org/wikipedia/en/c/c3/Flag_of_France.svg",
+		"map": "https://upload.wikimedia.org/wikipedia/commons/a/a3/EU-France.svg",
+		"name": "France",
+		"domesticNames": [
+			{ "lang": "fr", "text": "France – République française" }
+		],
+		"capital": "Paris",
+		"population": 64531444,
+		"area": 643427,
+		"currency": "Euro"
+	},
+	{
+		"continent": "Europe",
+		"flag": "https://upload.wikimedia.org/wikipedia/en/b/ba/Flag_of_Germany.svg",
+		"map": "https://upload.wikimedia.org/wikipedia/commons/2/26/EU-Germany.svg",
+		"name": "Germany",
+		"domesticNames": [
+			{ "lang": "de", "text": "Deutschland – Bundesrepublik Deutschland" }
+		],
+		"capital": "Berlin",
+		"population": 83408554,
+		"area": 357022,
+		"currency": "Euro"
+	},
+	{
+		"continent": "Europe",
+		"flag": "https://upload.wikimedia.org/wikipedia/commons/5/5c/Flag_of_Greece.svg",
+		"map": "https://upload.wikimedia.org/wikipedia/commons/2/21/EU-Greece.svg",
+		"name": "Greece",
+		"domesticNames": [{ "lang": "el", "text": "Ελλάδα – Ελληνική Δημοκρατία" }],
+		"capital": "Athens",
+		"population": 10445365,
+		"area": 131957,
+		"currency": "Euro"
+	},
+	{
+		"continent": "Europe",
+		"flag": "https://upload.wikimedia.org/wikipedia/commons/c/c1/Flag_of_Hungary.svg",
+		"map": "https://upload.wikimedia.org/wikipedia/commons/6/60/EU-Hungary.svg",
+		"name": "Hungary",
+		"domesticNames": [{ "lang": "hu", "text": "Magyarország" }],
+		"capital": "Budapest",
+		"population": 9709786,
+		"area": 93028,
+		"currency": "Hungarian forint"
+	},
+	{
+		"continent": "Europe",
+		"flag": "https://upload.wikimedia.org/wikipedia/commons/c/ce/Flag_of_Iceland.svg",
+		"map": "https://upload.wikimedia.org/wikipedia/commons/6/66/Europe-Iceland.svg",
+		"name": "Iceland",
+		"domesticNames": [{ "lang": "is", "text": "Ísland – Lýðveldið Ísland" }],
+		"capital": "Reykjavík",
+		"population": 370335,
+		"area": 103000,
+		"currency": "Icelandic króna"
+	},
+	{
+		"continent": "Europe",
+		"flag": "https://upload.wikimedia.org/wikipedia/commons/4/45/Flag_of_Ireland.svg",
+		"map": "https://upload.wikimedia.org/wikipedia/commons/2/2a/EU-Ireland.svg",
+		"name": "Ireland",
+		"domesticNames": [
+			{ "lang": "en", "text": "Ireland" },
+			{ "lang": "ga", "text": "Éire" }
+		],
+		"capital": "Dublin",
+		"population": 4986526,
+		"area": 70273,
+		"currency": "Euro"
+	},
+	{
+		"continent": "Europe",
+		"flag": "https://upload.wikimedia.org/wikipedia/en/0/03/Flag_of_Italy.svg",
+		"map": "https://upload.wikimedia.org/wikipedia/commons/b/ba/EU-Italy.svg",
+		"name": "Italy",
+		"domesticNames": [{ "lang": "it", "text": "Italia – Repubblica Italiana" }],
+		"capital": "Rome",
+		"population": 59240329,
+		"area": 301340,
+		"currency": "Euro"
+	},
+	{
+		"continent": "Europe",
+		"flag": "https://upload.wikimedia.org/wikipedia/commons/8/84/Flag_of_Latvia.svg",
+		"map": "https://upload.wikimedia.org/wikipedia/commons/3/32/EU-Latvia.svg",
+		"name": "Latvia",
+		"domesticNames": [{ "lang": "lv", "text": "Latvija – Latvijas Republika" }],
+		"capital": "Riga",
+		"population": 1873919,
+		"area": 64589,
+		"currency": "Euro"
+	},
+	{
+		"continent": "Europe",
+		"flag": "https://upload.wikimedia.org/wikipedia/commons/4/47/Flag_of_Liechtenstein.svg",
+		"map": "https://upload.wikimedia.org/wikipedia/commons/3/36/Location_Liechtenstein_Europe.png",
+		"name": "Liechtenstein",
+		"domesticNames": [
+			{ "lang": "de", "text": "Liechtenstein – Fürstentum Liechtenstein" }
+		],
+		"capital": "Vaduz",
+		"population": 39039,
+		"area": 160,
+		"currency": "Liechtenstein franc"
+	},
+	{
+		"continent": "Europe",
+		"flag": "https://upload.wikimedia.org/wikipedia/commons/1/11/Flag_of_Lithuania.svg",
+		"map": "https://upload.wikimedia.org/wikipedia/commons/e/ec/EU-Lithuania.svg",
+		"name": "Lithuania",
+		"domesticNames": [
+			{ "lang": "lt", "text": "Lietuva – Lietuvos Respublika" }
+		],
+		"capital": "Vilnius",
+		"population": 2786651,
+		"area": 65300,
+		"currency": "Euro"
+	},
+	{
+		"continent": "Europe",
+		"flag": "https://upload.wikimedia.org/wikipedia/commons/d/da/Flag_of_Luxembourg.svg",
+		"map": "https://upload.wikimedia.org/wikipedia/commons/c/c3/EU-Luxembourg.svg",
+		"name": "Luxembourg",
+		"domesticNames": [
+			{ "lang": "de", "text": "Luxemburg – Großherzogtum Luxemburg" },
+			{ "lang": "fr", "text": "Luxembourg – Grand-Duché de Luxembourg" },
+			{ "lang": "lb", "text": "Lëtzebuerg - Groussherzogtum Lëtzebuerg" }
+		],
+		"capital": "Luxembourg",
+		"population": 639321,
+		"area": 2586,
+		"currency": "Euro"
+	},
+	{
+		"continent": "Europe",
+		"flag": "https://upload.wikimedia.org/wikipedia/commons/7/73/Flag_of_Malta.svg",
+		"map": "https://upload.wikimedia.org/wikipedia/commons/6/63/EU-Malta.svg",
+		"name": "Malta",
+		"domesticNames": [
+			{ "lang": "en", "text": "Malta – Republic of Malta" },
+			{ "lang": "mt", "text": "Malta – Repubblika ta' Malta" }
+		],
+		"capital": "Valletta",
+		"population": 526748,
+		"area": 316,
+		"currency": "Euro"
+	},
+	{
+		"continent": "Europe",
+		"flag": "https://upload.wikimedia.org/wikipedia/commons/2/27/Flag_of_Moldova.svg",
+		"map": "https://upload.wikimedia.org/wikipedia/commons/f/fe/Location_Moldova_Europe.png",
+		"name": "Moldova",
+		"domesticNames": [{ "lang": "ro", "text": "Moldova – Republica Moldova" }],
+		"capital": "Chișinău",
+		"population": 3061506,
+		"area": 33851,
+		"currency": "Moldovan leu"
+	},
+	{
+		"continent": "Europe",
+		"flag": "https://upload.wikimedia.org/wikipedia/commons/e/ea/Flag_of_Monaco.svg",
+		"map": "https://upload.wikimedia.org/wikipedia/commons/f/f5/Location_Monaco_Europe.png",
+		"name": "Monaco",
+		"domesticNames": [
+			{ "lang": "fr", "text": "Monaco – Principauté de Monaco" }
+		],
+		"capital": "French",
+		"population": 36686,
+		"area": 2,
+		"currency": "Euro"
+	},
+	{
+		"continent": "Europe",
+		"flag": "https://upload.wikimedia.org/wikipedia/commons/6/64/Flag_of_Montenegro.svg",
+		"map": "https://upload.wikimedia.org/wikipedia/commons/b/b0/Europe-Montenegro.svg",
+		"name": "Montenegro",
+		"domesticNames": [{ "lang": "cnr", "text": "Црна Гора" }],
+		"capital": "Podgorica",
+		"population": 627859,
+		"area": 13812,
+		"currency": "Euro"
+	},
+	{
+		"continent": "Europe",
+		"flag": "https://upload.wikimedia.org/wikipedia/commons/2/20/Flag_of_the_Netherlands.svg",
+		"map": "https://upload.wikimedia.org/wikipedia/commons/2/27/EU-Netherlands.svg",
+		"name": "Netherlands",
+		"domesticNames": [
+			{ "lang": "nl", "text": "Nederland – Koninkrijk der Nederlanden" }
+		],
+		"capital": "Amsterdam",
+		"population": 17501696,
+		"area": 41543,
+		"currency": "Euro"
+	},
+	{
+		"continent": "Europe",
+		"flag": "https://upload.wikimedia.org/wikipedia/commons/7/79/Flag_of_North_Macedonia.svg",
+		"map": "https://upload.wikimedia.org/wikipedia/commons/9/9f/Europe-Republic_of_North_Macedonia.svg",
+		"name": "North Macedonia",
+		"domesticNames": [
+			{
+				"lang": "mk",
+				"text": "Северна Македонија – Република Северна Македонија"
+			}
+		],
+		"capital": "Skopje",
+		"population": 2103330,
+		"area": 25713,
+		"currency": "Macedonian denar"
+	},
+	{
+		"continent": "Europe",
+		"flag": "https://upload.wikimedia.org/wikipedia/commons/d/d9/Flag_of_Norway.svg",
+		"map": "https://upload.wikimedia.org/wikipedia/commons/0/01/Europe-Norway.svg",
+		"name": "Norway",
+		"domesticNames": [
+			{ "lang": "nb", "text": "Norge – Kongeriket Norge" },
+			{ "lang": "nn", "text": "Noreg – Kongeriket Noreg" }
+		],
+		"capital": "Oslo",
+		"population": 5403021,
+		"area": 323802,
+		"currency": "Norwegian krone"
+	},
+	{
+		"continent": "Europe",
+		"flag": "https://upload.wikimedia.org/wikipedia/en/1/12/Flag_of_Poland.svg",
+		"map": "https://upload.wikimedia.org/wikipedia/commons/9/9b/EU-Poland.svg",
+		"name": "Poland",
+		"domesticNames": [
+			{ "lang": "pl", "text": "Polska – Rzeczpospolita Polska" }
+		],
+		"capital": "Warsaw",
+		"population": 38307726,
+		"area": 312685,
+		"currency": "Polish złoty"
+	},
+	{
+		"continent": "Europe",
+		"flag": "https://upload.wikimedia.org/wikipedia/commons/5/5c/Flag_of_Portugal.svg",
+		"map": "https://upload.wikimedia.org/wikipedia/commons/a/a7/EU-Portugal.svg",
+		"name": "Portugal",
+		"domesticNames": [
+			{ "lang": "pt", "text": "Portugal – República Portuguesa" }
+		],
+		"capital": "Lisbon",
+		"population": 10290103,
+		"area": 92090,
+		"currency": "Euro"
+	},
+	{
+		"continent": "Europe",
+		"flag": "https://upload.wikimedia.org/wikipedia/commons/7/73/Flag_of_Romania.svg",
+		"map": "https://upload.wikimedia.org/wikipedia/commons/1/13/EU-Romania.svg",
+		"name": "Romania",
+		"domesticNames": [{ "lang": "ro", "text": "România" }],
+		"capital": "Bucharest",
+		"population": 19328560,
+		"area": 238391,
+		"currency": "Romanian leu"
+	},
+	{
+		"continent": "Europe",
+		"flag": "https://upload.wikimedia.org/wikipedia/commons/b/b1/Flag_of_San_Marino.svg",
+		"map": "https://upload.wikimedia.org/wikipedia/commons/7/79/Location_San_Marino_Europe.png",
+		"name": "San Marino",
+		"domesticNames": [
+			{ "lang": "it", "text": "San Marino – Repubblica di San Marino" }
+		],
+		"capital": "San Marino",
+		"population": 33745,
+		"area": 61,
+		"currency": "Euro"
+	},
+	{
+		"continent": "Europe",
+		"flag": "https://upload.wikimedia.org/wikipedia/commons/f/ff/Flag_of_Serbia.svg",
+		"map": "https://upload.wikimedia.org/wikipedia/commons/1/11/Map_of_Europe_and_Serbia_%282006%E2%80%932008%29.svg",
+		"name": "Serbia",
+		"domesticNames": [{ "lang": "sr", "text": "Србија – Република Србија" }],
+		"capital": "Belgrade",
+		"population": 7296769,
+		"area": 88361,
+		"currency": "Serbian dinar"
+	},
+	{
+		"continent": "Europe",
+		"flag": "https://upload.wikimedia.org/wikipedia/commons/e/e6/Flag_of_Slovakia.svg",
+		"map": "https://upload.wikimedia.org/wikipedia/commons/1/1d/EU-Slovakia.svg",
+		"name": "Slovakia",
+		"domesticNames": [
+			{ "lang": "sk", "text": "Slovensko – Slovenská republika" }
+		],
+		"capital": "Bratislava",
+		"population": 5447622,
+		"area": 49035,
+		"currency": "Euro"
+	},
+	{
+		"continent": "Europe",
+		"flag": "https://upload.wikimedia.org/wikipedia/commons/f/f0/Flag_of_Slovenia.svg",
+		"map": "https://upload.wikimedia.org/wikipedia/commons/8/84/EU-Slovenia.svg",
+		"name": "Slovenia",
+		"domesticNames": [
+			{ "lang": "sl", "text": "Slovenija – Republika Slovenija" }
+		],
+		"capital": "Ljubljana",
+		"population": 2119410,
+		"area": 20273,
+		"currency": "Euro"
+	},
+	{
+		"continent": "Europe",
+		"flag": "https://upload.wikimedia.org/wikipedia/en/9/9a/Flag_of_Spain.svg",
+		"map": "https://upload.wikimedia.org/wikipedia/commons/2/21/EU-Spain.svg",
+		"name": "Spain",
+		"domesticNames": [{ "lang": "es", "text": "España – Reino de España" }],
+		"capital": "Madrid",
+		"population": 47486935,
+		"area": 505370,
+		"currency": "Euro"
+	},
+	{
+		"continent": "Europe",
+		"flag": "https://upload.wikimedia.org/wikipedia/en/4/4c/Flag_of_Sweden.svg",
+		"map": "https://upload.wikimedia.org/wikipedia/commons/0/06/EU-Sweden.svg",
+		"name": "Sweden",
+		"domesticNames": [
+			{ "lang": "sv", "text": "Sverige – Konungariket Sverige" }
+		],
+		"capital": "Stockholm",
+		"population": 10467097,
+		"area": 450295,
+		"currency": "Swedish krona"
+	},
+	{
+		"continent": "Europe",
+		"flag": "https://upload.wikimedia.org/wikipedia/commons/f/f3/Flag_of_Switzerland.svg",
+		"map": "https://upload.wikimedia.org/wikipedia/commons/6/61/Europe-Switzerland.svg",
+		"name": "Switzerland",
+		"domesticNames": [
+			{ "lang": "de", "text": "Schweiz – Schweizerische Eidgenossenschaft" },
+			{ "lang": "fr", "text": "Suisse – Confédération suisse" },
+			{ "lang": "it", "text": "Svizzera – Confederazione Svizzera" },
+			{ "lang": "rm", "text": "Svizra – Confederaziun svizra" }
+		],
+		"capital": "Bern",
+		"population": 8691406,
+		"area": 41277,
+		"currency": "Swiss franc"
+	},
+	{
+		"continent": "Europe",
+		"flag": "https://upload.wikimedia.org/wikipedia/commons/4/49/Flag_of_Ukraine.svg",
+		"map": "https://upload.wikimedia.org/wikipedia/commons/a/aa/Europe-Ukraine.svg",
+		"name": "Ukraine",
+		"domesticNames": [{ "lang": "uk", "text": "Украïна" }],
+		"capital": "Kyiv",
+		"population": 43531422,
+		"area": 603550,
+		"currency": "Ukrainian hryvnia"
+	},
+	{
+		"continent": "Europe",
+		"flag": "https://upload.wikimedia.org/wikipedia/en/a/ae/Flag_of_the_United_Kingdom.svg",
+		"map": "https://upload.wikimedia.org/wikipedia/commons/5/5b/Europe-UK.svg",
+		"name": "United Kingdom",
+		"domesticNames": [
+			{
+				"lang": "en",
+				"text": "United Kingdom – United Kingdom of Great Britain and Northern Ireland"
+			}
+		],
+		"capital": "London",
+		"population": 67281039,
+		"area": 243610,
+		"currency": "Sterling"
+	},
+	{
+		"continent": "Europe",
+		"flag": "https://upload.wikimedia.org/wikipedia/commons/8/86/Flag_of_Vatican_City_%282001%E2%80%932023%29.svg",
+		"map": "https://upload.wikimedia.org/wikipedia/commons/f/f7/Location_Vatican_City_Europe.png",
+		"name": "Vatican City",
+		"domesticNames": [
+			{
+				"lang": "it",
+				"text": "Città del Vaticano – Stato della Città del Vaticano"
+			},
+			{ "lang": "la", "text": "Status Civitatis Vaticanae" }
+		],
+		"capital": "Italian",
+		"population": 511,
+		"area": 0,
+		"currency": "Euro"
+	},
+	{
+		"continent": "North America",
+		"flag": "https://upload.wikimedia.org/wikipedia/commons/8/89/Flag_of_Antigua_and_Barbuda.svg",
+		"map": "https://upload.wikimedia.org/wikipedia/commons/2/21/ATG_orthographic.svg",
+		"name": "Antigua and Barbuda",
+		"domesticNames": [{ "lang": "en", "text": "Antigua and Barbuda" }],
+		"capital": "St. John's",
+		"population": 93219,
+		"area": 442,
+		"currency": "East Caribbean dollar"
+	},
+	{
+		"continent": "North America",
+		"flag": "https://upload.wikimedia.org/wikipedia/commons/9/93/Flag_of_the_Bahamas.svg",
+		"map": "https://upload.wikimedia.org/wikipedia/commons/d/de/The_Bahamas_on_the_globe_%28Americas_centered%29.svg",
+		"name": "The Bahamas",
+		"domesticNames": [
+			{ "lang": "en", "text": "The Bahamas—Commonwealth of The Bahamas" }
+		],
+		"capital": "Nassau",
+		"population": 407906,
+		"area": 13940,
+		"currency": "Bahamian dollar"
+	},
+	{
+		"continent": "North America",
+		"flag": "https://upload.wikimedia.org/wikipedia/commons/e/ef/Flag_of_Barbados.svg",
+		"map": "https://upload.wikimedia.org/wikipedia/commons/a/a1/BRB_orthographic.svg",
+		"name": "Barbados",
+		"domesticNames": [{ "lang": "en", "text": "Barbados" }],
+		"capital": "Bridgetown",
+		"population": 281200,
+		"area": 431,
+		"currency": "Barbadian dollar"
+	},
+	{
+		"continent": "North America",
+		"flag": "https://upload.wikimedia.org/wikipedia/commons/e/e7/Flag_of_Belize.svg",
+		"map": "https://upload.wikimedia.org/wikipedia/commons/4/43/BLZ_orthographic.svg",
+		"name": "Belize",
+		"domesticNames": [{ "lang": "en", "text": "Belize" }],
+		"capital": "Belmopan",
+		"population": 400031,
+		"area": 22966,
+		"currency": "Belize dollar"
+	},
+	{
+		"continent": "North America",
+		"flag": "https://upload.wikimedia.org/wikipedia/en/c/cf/Flag_of_Canada.svg",
+		"map": "https://upload.wikimedia.org/wikipedia/commons/c/c7/Canada_%28orthographic_projection%29.svg",
+		"name": "Canada",
+		"domesticNames": [
+			{ "lang": "en", "text": "Canada" },
+			{ "lang": "fr", "text": "Canada" }
+		],
+		"capital": "Ottawa",
+		"population": 38155012,
+		"area": 9984670,
+		"currency": "Canadian dollar"
+	},
+	{
+		"continent": "North America",
+		"flag": "https://upload.wikimedia.org/wikipedia/commons/b/bc/Flag_of_Costa_Rica_%28state%29.svg",
+		"map": "https://upload.wikimedia.org/wikipedia/commons/c/c4/Costa_Rica_%28orthographic_projection%29.svg",
+		"name": "Costa Rica",
+		"domesticNames": [
+			{ "lang": "es", "text": "Costa Rica — República de Costa Rica" }
+		],
+		"capital": "San José",
+		"population": 5153957,
+		"area": 51100,
+		"currency": "Costa Rican colón"
+	},
+	{
+		"continent": "North America",
+		"flag": "https://upload.wikimedia.org/wikipedia/commons/b/bd/Flag_of_Cuba.svg",
+		"map": "https://upload.wikimedia.org/wikipedia/commons/0/01/Cuba_%28orthographic_projection%29.svg",
+		"name": "Cuba",
+		"domesticNames": [{ "lang": "es", "text": "Cuba — República de Cuba" }],
+		"capital": "Havana",
+		"population": 11256372,
+		"area": 110860,
+		"currency": "Cuban peso"
+	},
+	{
+		"continent": "North America",
+		"flag": "https://upload.wikimedia.org/wikipedia/commons/c/c4/Flag_of_Dominica.svg",
+		"map": "https://upload.wikimedia.org/wikipedia/commons/7/78/Dominica_on_the_globe_%28Americas_centered%29.svg",
+		"name": "Dominica",
+		"domesticNames": [
+			{ "lang": "en", "text": "Dominica — Commonwealth of Dominica" }
+		],
+		"capital": "Roseau",
+		"population": 72412,
+		"area": 754,
+		"currency": "East Caribbean dollar"
+	},
+	{
+		"continent": "North America",
+		"flag": "https://upload.wikimedia.org/wikipedia/commons/9/9f/Flag_of_the_Dominican_Republic.svg",
+		"map": "https://upload.wikimedia.org/wikipedia/commons/9/95/Dominican_Republic_%28orthographic_projection%29.svg",
+		"name": "Dominican Republic",
+		"domesticNames": [
+			{ "lang": "en", "text": "Dominican Republic" },
+			{ "lang": "es", "text": "República Dominicana" }
+		],
+		"capital": "Santo Domingo",
+		"population": 11117873,
+		"area": 48730,
+		"currency": "Dominican peso"
+	},
+	{
+		"continent": "North America",
+		"flag": "https://upload.wikimedia.org/wikipedia/commons/3/34/Flag_of_El_Salvador.svg",
+		"map": "https://upload.wikimedia.org/wikipedia/commons/e/e3/El_Salvador_%28orthographic_projection%29.svg",
+		"name": "El Salvador",
+		"domesticNames": [
+			{ "lang": "en", "text": "El Salvador — Republic of El Salvador" },
+			{ "lang": "es", "text": "El Salvador — República de El Salvador" }
+		],
+		"capital": "San Salvador",
+		"population": 6314167,
+		"area": 21040,
+		"currency": "United States dollar"
+	},
+	{
+		"continent": "North America",
+		"flag": "https://upload.wikimedia.org/wikipedia/commons/b/bc/Flag_of_Grenada.svg",
+		"map": "https://upload.wikimedia.org/wikipedia/commons/6/6e/Grenada_on_the_globe_%28Americas_centered%29.svg",
+		"name": "Grenada",
+		"domesticNames": [{ "lang": "en", "text": "Grenada" }],
+		"capital": "St. George's",
+		"population": 124610,
+		"area": 344,
+		"currency": "East Caribbean dollar"
+	},
+	{
+		"continent": "North America",
+		"flag": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Flag_of_Guatemala.svg",
+		"map": "https://upload.wikimedia.org/wikipedia/commons/7/70/Guatemala_%28orthographic_projection%29.svg",
+		"name": "Guatemala",
+		"domesticNames": [
+			{ "lang": "es", "text": "Guatemala — República de Guatemala" }
+		],
+		"capital": "Guatemala City",
+		"population": 17608483,
+		"area": 108890,
+		"currency": "Guatemalan quetzal"
+	},
+	{
+		"continent": "North America",
+		"flag": "https://upload.wikimedia.org/wikipedia/commons/5/56/Flag_of_Haiti.svg",
+		"map": "https://upload.wikimedia.org/wikipedia/commons/f/fe/Haiti_%28orthographic_projection%29.svg",
+		"name": "Haiti",
+		"domesticNames": [
+			{ "lang": "fr", "text": "Haïti — République d'Haïti" },
+			{ "lang": "ht", "text": "Ayiti — Repiblik d Ayiti" }
+		],
+		"capital": "Port-au-Prince",
+		"population": 11447569,
+		"area": 27750,
+		"currency": "Haitian gourde"
+	},
+	{
+		"continent": "North America",
+		"flag": "https://upload.wikimedia.org/wikipedia/commons/8/82/Flag_of_Honduras.svg",
+		"map": "https://upload.wikimedia.org/wikipedia/commons/3/3a/Honduras_%28orthographic_projection%29.svg",
+		"name": "Honduras",
+		"domesticNames": [
+			{ "lang": "es", "text": "Honduras — República de Honduras" }
+		],
+		"capital": "Tegucigalpa",
+		"population": 10278345,
+		"area": 112090,
+		"currency": "Honduran lempira"
+	},
+	{
+		"continent": "North America",
+		"flag": "https://upload.wikimedia.org/wikipedia/commons/0/0a/Flag_of_Jamaica.svg",
+		"map": "https://upload.wikimedia.org/wikipedia/commons/e/eb/Jamaica_%28orthographic_projection%29.svg",
+		"name": "Jamaica",
+		"domesticNames": [{ "lang": "en", "text": "Jamaica" }],
+		"capital": "Kingston",
+		"population": 2827695,
+		"area": 10991,
+		"currency": "Jamaican dollar"
+	},
+	{
+		"continent": "North America",
+		"flag": "https://upload.wikimedia.org/wikipedia/commons/f/fc/Flag_of_Mexico.svg",
+		"map": "https://upload.wikimedia.org/wikipedia/commons/c/c9/Mexico_%28orthographic_projection%29.svg",
+		"name": "Mexico",
+		"domesticNames": [
+			{ "lang": "es", "text": "México — Estados Unidos Mexicanos" }
+		],
+		"capital": "Mexico City",
+		"population": 126705138,
+		"area": 1972550,
+		"currency": "Mexican peso"
+	},
+	{
+		"continent": "North America",
+		"flag": "https://upload.wikimedia.org/wikipedia/commons/1/19/Flag_of_Nicaragua.svg",
+		"map": "https://upload.wikimedia.org/wikipedia/commons/3/38/Nicaragua_%28orthographic_projection%29.svg",
+		"name": "Nicaragua",
+		"domesticNames": [
+			{ "lang": "es", "text": "Nicaragua — República de Nicaragua" }
+		],
+		"capital": "Managua",
+		"population": 6850540,
+		"area": 129494,
+		"currency": "Nicaraguan córdoba"
+	},
+	{
+		"continent": "North America",
+		"flag": "https://upload.wikimedia.org/wikipedia/commons/a/ab/Flag_of_Panama.svg",
+		"map": "https://upload.wikimedia.org/wikipedia/commons/e/e1/Panama_%28orthographic_projection%29.svg",
+		"name": "Panama",
+		"domesticNames": [
+			{ "lang": "en", "text": "Panama — Republic of Panama" },
+			{ "lang": "es", "text": "Panamá — República de Panamá" }
+		],
+		"capital": "Panama City",
+		"population": 4351267,
+		"area": 78200,
+		"currency": "Panamanian balboa"
+	},
+	{
+		"continent": "North America",
+		"flag": "https://upload.wikimedia.org/wikipedia/commons/f/fe/Flag_of_Saint_Kitts_and_Nevis.svg",
+		"map": "https://upload.wikimedia.org/wikipedia/commons/5/5d/KNA_orthographic.svg",
+		"name": "Saint Kitts and Nevis",
+		"domesticNames": [
+			{
+				"lang": "en",
+				"text": "Saint Kitts and Nevis — Federation of Saint Kitts and Nevis"
+			}
+		],
+		"capital": "Basseterre",
+		"population": 47606,
+		"area": 261,
+		"currency": "East Caribbean dollar"
+	},
+	{
+		"continent": "North America",
+		"flag": "https://upload.wikimedia.org/wikipedia/commons/9/9f/Flag_of_Saint_Lucia.svg",
+		"map": "https://upload.wikimedia.org/wikipedia/commons/9/97/Saint_Lucia_on_the_globe_%28Americas_centered%29.svg",
+		"name": "Saint Lucia",
+		"domesticNames": [{ "lang": "en", "text": "Saint Lucia" }],
+		"capital": "Castries",
+		"population": 179651,
+		"area": 616,
+		"currency": "East Caribbean dollar"
+	},
+	{
+		"continent": "North America",
+		"flag": "https://upload.wikimedia.org/wikipedia/commons/6/6d/Flag_of_Saint_Vincent_and_the_Grenadines.svg",
+		"map": "https://upload.wikimedia.org/wikipedia/commons/7/70/VCT_orthographic.svg",
+		"name": "Saint Vincent and the Grenadines",
+		"domesticNames": [
+			{ "lang": "en", "text": "Saint Vincent and the Grenadines" }
+		],
+		"capital": "Kingstown",
+		"population": 104332,
+		"area": 389,
+		"currency": "East Caribbean dollar"
+	},
+	{
+		"continent": "North America",
+		"flag": "https://upload.wikimedia.org/wikipedia/commons/6/64/Flag_of_Trinidad_and_Tobago.svg",
+		"map": "https://upload.wikimedia.org/wikipedia/commons/e/ed/Trinidad_and_Tobago_%28orthographic_projection%29.svg",
+		"name": "Trinidad and Tobago",
+		"domesticNames": [
+			{
+				"lang": "en",
+				"text": "Trinidad and Tobago — Republic of Trinidad and Tobago"
+			}
+		],
+		"capital": "Port of Spain",
+		"population": 1525663,
+		"area": 5128,
+		"currency": "Trinidad and Tobago dollar"
+	},
+	{
+		"continent": "North America",
+		"flag": "https://upload.wikimedia.org/wikipedia/en/a/a4/Flag_of_the_United_States.svg",
+		"map": "https://upload.wikimedia.org/wikipedia/commons/7/70/United_States_%28orthographic_projection%29.svg",
+		"name": "United States",
+		"domesticNames": [{ "lang": "en", "text": "United States of America" }],
+		"capital": "Washington",
+		"population": 336997624,
+		"area": 9826630,
+		"currency": "United States dollar"
+	},
+	{
+		"continent": "South America",
+		"flag": "https://upload.wikimedia.org/wikipedia/commons/1/1a/Flag_of_Argentina.svg",
+		"map": "https://upload.wikimedia.org/wikipedia/commons/2/2d/ARG_orthographic.svg",
+		"name": "Argentina",
+		"domesticNames": [
+			{ "lang": "es", "text": "Argentina — República Argentina" }
+		],
+		"capital": "Buenos Aires",
+		"population": 45276780,
+		"area": 2780400,
+		"currency": "Argentine peso"
+	},
+	{
+		"continent": "South America",
+		"flag": "https://upload.wikimedia.org/wikipedia/commons/4/48/Flag_of_Bolivia.svg",
+		"map": "https://upload.wikimedia.org/wikipedia/commons/8/83/BOL_orthographic.svg",
+		"name": "Bolivia",
+		"domesticNames": [
+			{ "lang": "es", "text": "Bolivia — Estado Plurinacional de Bolivia" },
+			{ "lang": "qu", "text": "Buliwya — Puliwya Achka Aylluska Mamallaqta" },
+			{ "lang": "ay", "text": "Wuliwya — Wuliwya Walja Suyunakana Marka" }
+		],
+		"capital": "Sucre",
+		"population": 12079472,
+		"area": 1098581,
+		"currency": "Bolivian boliviano"
+	},
+	{
+		"continent": "South America",
+		"flag": "https://upload.wikimedia.org/wikipedia/en/0/05/Flag_of_Brazil.svg",
+		"map": "https://upload.wikimedia.org/wikipedia/commons/b/bc/BRA_orthographic.svg",
+		"name": "Brazil",
+		"domesticNames": [
+			{ "lang": "pt", "text": "Brasil — República Federativa do Brasil" }
+		],
+		"capital": "Brasília",
+		"population": 214326223,
+		"area": 8514877,
+		"currency": "Brazilian real"
+	},
+	{
+		"continent": "South America",
+		"flag": "https://upload.wikimedia.org/wikipedia/commons/7/78/Flag_of_Chile.svg",
+		"map": "https://upload.wikimedia.org/wikipedia/commons/5/5d/CHL_orthographic.svg",
+		"name": "Chile",
+		"domesticNames": [{ "lang": "es", "text": "Chile — República de Chile" }],
+		"capital": "Santiago",
+		"population": 19493184,
+		"area": 756102,
+		"currency": "Chilean peso"
+	},
+	{
+		"continent": "South America",
+		"flag": "https://upload.wikimedia.org/wikipedia/commons/2/21/Flag_of_Colombia.svg",
+		"map": "https://upload.wikimedia.org/wikipedia/commons/6/6f/COL_orthographic.svg",
+		"name": "Colombia",
+		"domesticNames": [
+			{ "lang": "es", "text": "Colombia — República de Colombia" }
+		],
+		"capital": "Bogotá",
+		"population": 51516562,
+		"area": 1138910,
+		"currency": "Colombian peso"
+	},
+	{
+		"continent": "South America",
+		"flag": "https://upload.wikimedia.org/wikipedia/commons/e/e8/Flag_of_Ecuador.svg",
+		"map": "https://upload.wikimedia.org/wikipedia/commons/e/e3/ECU_orthographic.svg",
+		"name": "Ecuador",
+		"domesticNames": [
+			{ "lang": "es", "text": "Ecuador — República del Ecuador" },
+			{ "lang": "qu", "text": "Ikwadur — Ikwadur Ripuwlika" }
+		],
+		"capital": "Quito",
+		"population": 17797737,
+		"area": 283561,
+		"currency": "United States dollar"
+	},
+	{
+		"continent": "South America",
+		"flag": "https://upload.wikimedia.org/wikipedia/commons/9/99/Flag_of_Guyana.svg",
+		"map": "https://upload.wikimedia.org/wikipedia/commons/2/21/GUY_orthographic.svg",
+		"name": "Guyana",
+		"domesticNames": [
+			{ "lang": "en", "text": "Guyana — Co-operative Republic of Guyana" }
+		],
+		"capital": "Georgetown",
+		"population": 804567,
+		"area": 214969,
+		"currency": "Guyanese dollar"
+	},
+	{
+		"continent": "South America",
+		"flag": "https://upload.wikimedia.org/wikipedia/commons/2/27/Flag_of_Paraguay.svg",
+		"map": "https://upload.wikimedia.org/wikipedia/commons/4/4c/PRY_orthographic.svg",
+		"name": "Paraguay",
+		"domesticNames": [
+			{ "lang": "es", "text": "Paraguay — República del Paraguay" },
+			{ "lang": "gn", "text": "Paraguai — Tetã Paraguai" }
+		],
+		"capital": "Asunción",
+		"population": 6703799,
+		"area": 406752,
+		"currency": "Paraguayan guaraní"
+	},
+	{
+		"continent": "South America",
+		"flag": "https://upload.wikimedia.org/wikipedia/commons/c/cf/Flag_of_Peru.svg",
+		"map": "https://upload.wikimedia.org/wikipedia/commons/0/07/PER_orthographic.svg",
+		"name": "Peru",
+		"domesticNames": [
+			{ "lang": "es", "text": "Perú — República del Perú" },
+			{ "lang": "qu", "text": "Piruw — Piruw Ripuwlika" },
+			{ "lang": "ay", "text": "Piruw — Piruwxa Ripuwlika" }
+		],
+		"capital": "Lima",
+		"population": 33715471,
+		"area": 1285216,
+		"currency": "Peruvian sol"
+	},
+	{
+		"continent": "South America",
+		"flag": "https://upload.wikimedia.org/wikipedia/commons/6/60/Flag_of_Suriname.svg",
+		"map": "https://upload.wikimedia.org/wikipedia/commons/7/72/SUR_orthographic.svg",
+		"name": "Suriname",
+		"domesticNames": [
+			{ "lang": "nl", "text": "Suriname — Republiek Suriname" }
+		],
+		"capital": "Paramaribo",
+		"population": 612985,
+		"area": 163820,
+		"currency": "Surinamese dollar"
+	},
+	{
+		"continent": "South America",
+		"flag": "https://upload.wikimedia.org/wikipedia/commons/f/fe/Flag_of_Uruguay.svg",
+		"map": "https://upload.wikimedia.org/wikipedia/commons/4/43/URY_orthographic.svg",
+		"name": "Uruguay",
+		"domesticNames": [
+			{ "lang": "es", "text": "Uruguay — República Oriental del Uruguay" },
+			{ "lang": "pt", "text": "Uruguai — República Oriental do Uruguai" }
+		],
+		"capital": "Montevideo",
+		"population": 3426260,
+		"area": 176215,
+		"currency": "Uruguayan peso"
+	},
+	{
+		"continent": "South America",
+		"flag": "https://upload.wikimedia.org/wikipedia/commons/0/06/Flag_of_Venezuela.svg",
+		"map": "https://upload.wikimedia.org/wikipedia/commons/5/5e/VEN_orthographic.svg",
+		"name": "Venezuela",
+		"domesticNames": [
+			{ "lang": "es", "text": "Venezuela — República Bolivariana de Venezuela" }
+		],
+		"capital": "Caracas",
+		"population": 28199867,
+		"area": 912050,
+		"currency": "Venezuelan bolívar"
+	},
+	{
+		"continent": "Asia",
+		"flag": "https://upload.wikimedia.org/wikipedia/commons/5/5c/Flag_of_the_Taliban.svg",
+		"map": "https://upload.wikimedia.org/wikipedia/commons/1/19/Afghanistan_%28orthographic_projection%29.svg",
+		"name": "Afghanistan",
+		"domesticNames": [
+			{
+				"lang": "prs",
+				"text": ".mw-parser-output .script-arabic{font-family:\"Scheherazade New\",\"SF Arabic\",Amiri,\"Noto Naskh Arabic\",\"Droid Arabic Naskh\",\"Noto Sans Arabic\",\"Sakkal Majalla\",\"Harmattan\",\"Arabic Typesetting\",\"Arabic Transparent\",\"Times New Roman\",Arial,Calibri,\"Microsoft Sans Serif\",\"Segoe UI\",serif,sans-serif;font-weight:normal}امارت اسلامی افغانستان‎"
+			},
+			{ "lang": "ps", "text": "د افغانستان اسلامي امارت‎" }
+		],
+		"capital": "Kabul",
+		"population": 40099462,
+		"area": 652230
+	},
+	{
+		"continent": "Asia",
+		"flag": "https://upload.wikimedia.org/wikipedia/commons/2/2f/Flag_of_Armenia.svg",
+		"map": "https://upload.wikimedia.org/wikipedia/commons/9/96/Armenia_%28orthographic_projection%29.svg",
+		"name": "Armenia",
+		"domesticNames": [
+			{ "lang": "hy", "text": "Հայաստան – Հայաստանի Հանրապետությու" }
+		],
+		"capital": "Yerevan",
+		"population": 2790974,
+		"area": 29743
+	},
+	{
+		"continent": "Asia",
+		"flag": "https://upload.wikimedia.org/wikipedia/commons/d/dd/Flag_of_Azerbaijan.svg",
+		"map": "https://upload.wikimedia.org/wikipedia/commons/7/75/Azerbaijan_orthographic_projection.svg",
+		"name": "Azerbaijan",
+		"domesticNames": [
+			{ "lang": "az", "text": "Azǝrbaycan – Azǝrbaycan Respublikası" }
+		],
+		"capital": "Baku",
+		"population": 10312992,
+		"area": 86600
+	},
+	{
+		"continent": "Asia",
+		"flag": "https://upload.wikimedia.org/wikipedia/commons/2/2c/Flag_of_Bahrain.svg",
+		"map": "https://upload.wikimedia.org/wikipedia/commons/9/95/Bahrain_on_the_globe_%28Bahrain_centered%29.svg",
+		"name": "Bahrain",
+		"domesticNames": [{ "lang": "ar", "text": "مملكة البحرين – البحرين‎" }],
+		"capital": "Manama",
+		"population": 1463265,
+		"area": 760
+	},
+	{
+		"continent": "Asia",
+		"flag": "https://upload.wikimedia.org/wikipedia/commons/f/f9/Flag_of_Bangladesh.svg",
+		"map": "https://upload.wikimedia.org/wikipedia/commons/f/f2/Bangladesh_%28orthographic_projection%29.svg",
+		"name": "Bangladesh",
+		"domesticNames": [
+			{ "lang": "bn", "text": "বাংলাদেশ – গণপ্রজাতন্ত্রী বাংলাদেশ" }
+		],
+		"capital": "Dhaka",
+		"population": 169356251,
+		"area": 147570
+	},
+	{
+		"continent": "Asia",
+		"flag": "https://upload.wikimedia.org/wikipedia/commons/9/91/Flag_of_Bhutan.svg",
+		"map": "https://upload.wikimedia.org/wikipedia/commons/c/ce/Bhutan_%28orthographic_projection%29.svg",
+		"name": "Bhutan",
+		"domesticNames": [{ "lang": "dz", "text": "འབྲུག་ཡུལ་ – འབྲུག་རྒྱལ་ཁབ་" }],
+		"capital": "Thimphu",
+		"population": 777486,
+		"area": 38394
+	},
+	{
+		"continent": "Asia",
+		"flag": "https://upload.wikimedia.org/wikipedia/commons/9/9c/Flag_of_Brunei.svg",
+		"map": "https://upload.wikimedia.org/wikipedia/commons/9/9c/Brunei_%28orthographic_projection%29.svg",
+		"name": "Brunei",
+		"domesticNames": [
+			{ "lang": "ms", "text": "Brunei – Negara Brunei Darussalam" }
+		],
+		"capital": "Bandar Seri Begawan",
+		"population": 460356,
+		"area": 5765
+	},
+	{
+		"continent": "Asia",
+		"flag": "https://upload.wikimedia.org/wikipedia/commons/8/83/Flag_of_Cambodia.svg",
+		"map": "https://upload.wikimedia.org/wikipedia/commons/c/cb/Cambodia_on_the_globe_%28Cambodia_centered%29.svg",
+		"name": "Cambodia",
+		"domesticNames": [
+			{ "lang": "km", "text": "កម្ពុជា – ព្រះរាជាណាចក្រកម្ពុជា" }
+		],
+		"capital": "Phnom Penh",
+		"population": 16589023,
+		"area": 181035
+	},
+	{
+		"continent": "Asia",
+		"flag": "https://upload.wikimedia.org/wikipedia/commons/f/fa/Flag_of_the_People%27s_Republic_of_China.svg",
+		"map": "https://upload.wikimedia.org/wikipedia/commons/a/a4/CHN_orthographic.svg",
+		"name": "China",
+		"domesticNames": [{ "lang": "zh", "text": "中国 – 中华人民共和国" }],
+		"capital": "Beijing",
+		"population": 1425893465,
+		"area": 9596961
+	},
+	{
+		"continent": "Asia",
+		"flag": "https://upload.wikimedia.org/wikipedia/commons/d/d4/Flag_of_Cyprus.svg",
+		"map": "https://upload.wikimedia.org/wikipedia/commons/a/a3/Republic_of_Cyprus_%28orthographic_projection%29.svg",
+		"name": "Cyprus",
+		"domesticNames": [
+			{ "lang": "el", "text": "Κύπρος – Κυπριακή Δημοκρατία" },
+			{ "lang": "tr", "text": "Kıbrıs – Kıbrıs Cumhuriyeti" }
+		],
+		"capital": "Nicosia",
+		"population": 1244188,
+		"area": 9251
+	},
+	{
+		"continent": "Asia",
+		"flag": "https://upload.wikimedia.org/wikipedia/commons/2/26/Flag_of_East_Timor.svg",
+		"map": "https://upload.wikimedia.org/wikipedia/commons/b/bc/Timor_Leste_%28orthographic_projection%29.svg",
+		"name": "East Timor",
+		"domesticNames": [
+			{
+				"lang": "pt",
+				"text": "Timor-Leste – República Democrática de Timor-Leste"
+			}
+		],
+		"capital": "Dili",
+		"population": 1320942,
+		"area": 14874
+	},
+	{
+		"continent": "Asia",
+		"flag": "https://upload.wikimedia.org/wikipedia/commons/f/fe/Flag_of_Egypt.svg",
+		"map": "https://upload.wikimedia.org/wikipedia/commons/a/a1/EGY_orthographic.svg",
+		"name": "Egypt",
+		"domesticNames": [],
+		"capital": "Cairo",
+		"population": 109262178,
+		"area": 1001449
+	},
+	{
+		"continent": "Asia",
+		"flag": "https://upload.wikimedia.org/wikipedia/commons/0/0f/Flag_of_Georgia.svg",
+		"map": "https://upload.wikimedia.org/wikipedia/commons/6/67/Georgia_%28orthographic_projection_with_inset%29.svg",
+		"name": "Georgia",
+		"domesticNames": [],
+		"capital": "Tbilisi",
+		"population": 3757980,
+		"area": 69700
+	},
+	{
+		"continent": "Asia",
+		"flag": "https://upload.wikimedia.org/wikipedia/en/4/41/Flag_of_India.svg",
+		"map": "https://upload.wikimedia.org/wikipedia/commons/b/bb/India_%28orthographic_projection%29.svg",
+		"name": "India",
+		"domesticNames": [
+			{ "lang": "en", "text": "India – Republic of India" },
+			{ "lang": "hi", "text": "भारत – भारत गणराज्य" }
+		],
+		"capital": "New Delhi",
+		"population": 1407563842,
+		"area": 3287263
+	},
+	{
+		"continent": "Asia",
+		"flag": "https://upload.wikimedia.org/wikipedia/commons/9/9f/Flag_of_Indonesia.svg",
+		"map": "https://upload.wikimedia.org/wikipedia/commons/0/05/Indonesia_%28orthographic_projection%29.svg",
+		"name": "Indonesia",
+		"domesticNames": [
+			{ "lang": "id", "text": "Indonesia – Republik Indonesia" }
+		],
+		"capital": "Jakarta",
+		"population": 273753191,
+		"area": 1904569
+	},
+	{
+		"continent": "Asia",
+		"flag": "https://upload.wikimedia.org/wikipedia/commons/c/ca/Flag_of_Iran.svg",
+		"map": "https://upload.wikimedia.org/wikipedia/commons/a/a8/Iran_%28orthographic_projection%29.svg",
+		"name": "Iran",
+		"domesticNames": [{ "lang": "fa", "text": "جمهوری اسلامی ایران – ایران" }],
+		"capital": "Tehran",
+		"population": 87923432,
+		"area": 1648195
+	},
+	{
+		"continent": "Asia",
+		"flag": "https://upload.wikimedia.org/wikipedia/commons/f/f6/Flag_of_Iraq.svg",
+		"map": "https://upload.wikimedia.org/wikipedia/commons/5/5c/Iraq_%28orthographic%29.svg",
+		"name": "Iraq",
+		"domesticNames": [{ "lang": "ar", "text": "العراق – جمهورية العراق‎" }],
+		"capital": "Baghdad",
+		"population": 43533592,
+		"area": 438317
+	},
+	{
+		"continent": "Asia",
+		"flag": "https://upload.wikimedia.org/wikipedia/commons/d/d4/Flag_of_Israel.svg",
+		"map": "https://upload.wikimedia.org/wikipedia/commons/b/b6/Israel_%28orthographic_projection%29_with_occupied_territories.svg",
+		"name": "Israel",
+		"domesticNames": [
+			{ "lang": "he", "text": "יִשְרָאֵל – מְדִינַת יִשְׂרָאֵל" },
+			{ "lang": "ar", "text": "إسرائيل – دَوْلَة إِسْرَائِيل" }
+		],
+		"capital": "Jerusalem",
+		"population": 8900059,
+		"area": 20770
+	},
+	{
+		"continent": "Asia",
+		"flag": "https://upload.wikimedia.org/wikipedia/en/9/9e/Flag_of_Japan.svg",
+		"map": "https://upload.wikimedia.org/wikipedia/commons/6/62/Japan_%28orthographic_projection%29.svg",
+		"name": "Japan",
+		"domesticNames": [{ "lang": "ja", "text": "日本 – 日本国" }],
+		"capital": "Tokyo",
+		"population": 124612530,
+		"area": 377915
+	},
+	{
+		"continent": "Asia",
+		"flag": "https://upload.wikimedia.org/wikipedia/commons/c/c0/Flag_of_Jordan.svg",
+		"map": "https://upload.wikimedia.org/wikipedia/commons/b/b2/Jordan_%28orthographic_projection%29.svg",
+		"name": "Jordan",
+		"domesticNames": [
+			{ "lang": "ar", "text": "اﻷرُدن – المملكة الأردنية الهاشميه‎" }
+		],
+		"capital": "Amman",
+		"population": 11148278,
+		"area": 89342
+	},
+	{
+		"continent": "Asia",
+		"flag": "https://upload.wikimedia.org/wikipedia/commons/d/d3/Flag_of_Kazakhstan.svg",
+		"map": "https://upload.wikimedia.org/wikipedia/commons/3/3e/Kazakhstan_%28orthographic_projection%29.svg",
+		"name": "Kazakhstan",
+		"domesticNames": [
+			{ "lang": "kk", "text": "Қазақстан – Қазақстан Республикасы" },
+			{ "lang": "ru", "text": "Казахстан – Республика Казахстан" }
+		],
+		"capital": "Astana",
+		"population": 19196465,
+		"area": 2724900
+	},
+	{
+		"continent": "Asia",
+		"flag": "https://upload.wikimedia.org/wikipedia/commons/5/51/Flag_of_North_Korea.svg",
+		"map": "https://upload.wikimedia.org/wikipedia/commons/b/b2/Democratic_People%27s_Republic_of_Korea_%28orthographic_projection%29.svg",
+		"name": "North Korea",
+		"domesticNames": [
+			{ "lang": "ko", "text": "조선 – 조선민주주의인민공화국" }
+		],
+		"capital": "Pyongyang",
+		"population": 25971909,
+		"area": 120538
+	},
+	{
+		"continent": "Asia",
+		"flag": "https://upload.wikimedia.org/wikipedia/commons/0/09/Flag_of_South_Korea.svg",
+		"map": "https://upload.wikimedia.org/wikipedia/commons/b/b1/Republic_of_Korea_%28orthographic_projection%29.svg",
+		"name": "South Korea",
+		"domesticNames": [{ "lang": "ko", "text": "한국 – 대한민국" }],
+		"capital": "Seoul",
+		"population": 51830139,
+		"area": 99720
+	},
+	{
+		"continent": "Asia",
+		"flag": "https://upload.wikimedia.org/wikipedia/commons/a/aa/Flag_of_Kuwait.svg",
+		"map": "https://upload.wikimedia.org/wikipedia/commons/4/41/KWT_orthographic.svg",
+		"name": "Kuwait",
+		"domesticNames": [{ "lang": "ar", "text": "دولة الكويت – اﻟﻜﻮﻳت‎" }],
+		"capital": "Kuwait City",
+		"population": 4250114,
+		"area": 17818
+	},
+	{
+		"continent": "Asia",
+		"flag": "https://upload.wikimedia.org/wikipedia/commons/c/c7/Flag_of_Kyrgyzstan.svg",
+		"map": "https://upload.wikimedia.org/wikipedia/commons/7/7c/Kyrgyzstan_%28orthographic_projection%29.svg",
+		"name": "Kyrgyzstan",
+		"domesticNames": [
+			{ "lang": "ky", "text": "Кыргызстан – Кыргыз Республикасы" },
+			{ "lang": "ru", "text": "Кыргызстан – Кыргызская Республика" }
+		],
+		"capital": "Bishkek",
+		"population": 6527743,
+		"area": 199951
+	},
+	{
+		"continent": "Asia",
+		"flag": "https://upload.wikimedia.org/wikipedia/commons/5/56/Flag_of_Laos.svg",
+		"map": "https://upload.wikimedia.org/wikipedia/commons/b/bc/Laos_%28orthographic_projection%29.svg",
+		"name": "Laos",
+		"domesticNames": [
+			{ "lang": "lo", "text": "ປະເທດລາວ – ສາທາລະນະລັດ ປະຊາທິປະໄຕ ປະຊາຊົນລາວ" }
+		],
+		"capital": "Vientiane",
+		"population": 7425057,
+		"area": 236800
+	},
+	{
+		"continent": "Asia",
+		"flag": "https://upload.wikimedia.org/wikipedia/commons/5/59/Flag_of_Lebanon.svg",
+		"map": "https://upload.wikimedia.org/wikipedia/commons/9/96/Lebanon_%28orthographic_projection%29.svg",
+		"name": "Lebanon",
+		"domesticNames": [{ "lang": "ar", "text": "لبنان – الجمهورية اللبنانية‎" }],
+		"capital": "Beirut",
+		"population": 5592631,
+		"area": 10452
+	},
+	{
+		"continent": "Asia",
+		"flag": "https://upload.wikimedia.org/wikipedia/commons/6/66/Flag_of_Malaysia.svg",
+		"map": "https://upload.wikimedia.org/wikipedia/commons/2/23/Malaysia_%28orthographic_projection%29.svg",
+		"name": "Malaysia",
+		"domesticNames": [],
+		"capital": "Kuala Lumpur",
+		"population": 33573874,
+		"area": 329847
+	},
+	{
+		"continent": "Asia",
+		"flag": "https://upload.wikimedia.org/wikipedia/commons/0/0f/Flag_of_Maldives.svg",
+		"map": "https://upload.wikimedia.org/wikipedia/commons/4/4b/Maldives_%28orthographic_projection%29.svg",
+		"name": "Maldives",
+		"domesticNames": [
+			{ "lang": "dv", "text": "ދިވެހިރާއްޖެ – ދިވެހިރާއްޖޭގެ ޖުމްހޫރިއްޔާ" }
+		],
+		"capital": "Malé",
+		"population": 521457,
+		"area": 298
+	},
+	{
+		"continent": "Asia",
+		"flag": "https://upload.wikimedia.org/wikipedia/commons/4/4c/Flag_of_Mongolia.svg",
+		"map": "https://upload.wikimedia.org/wikipedia/commons/f/f3/Mongolia_%28orthographic_projection%29.svg",
+		"name": "Mongolia",
+		"domesticNames": [{ "lang": "mn", "text": "Монгол – Монгол улс" }],
+		"capital": "Ulaanbaatar",
+		"population": 3347782,
+		"area": 1564116
+	},
+	{
+		"continent": "Asia",
+		"flag": "https://upload.wikimedia.org/wikipedia/commons/8/8c/Flag_of_Myanmar.svg",
+		"map": "https://upload.wikimedia.org/wikipedia/commons/c/cb/Myanmar_%28orthographic_projection%29.svg",
+		"name": "Myanmar",
+		"domesticNames": [
+			{ "lang": "my", "text": "မြန်မာ – ပြည်ထောင်စု သမ္မတ မြန်မာနိုင်ငံတော်‌" }
+		],
+		"capital": "Nay Pyi Taw",
+		"population": 53798084,
+		"area": 676578
+	},
+	{
+		"continent": "Asia",
+		"flag": "https://upload.wikimedia.org/wikipedia/commons/9/9b/Flag_of_Nepal.svg",
+		"map": "https://upload.wikimedia.org/wikipedia/commons/d/d4/Nepal_%28orthographic_projection%29.svg",
+		"name": "Nepal",
+		"domesticNames": [
+			{ "lang": "ne", "text": "सङ्घीय लोकतान्त्रिक गणतन्त्र नेपाल" }
+		],
+		"capital": "Kathmandu",
+		"population": 30034989,
+		"area": 147516
+	},
+	{
+		"continent": "Asia",
+		"flag": "https://upload.wikimedia.org/wikipedia/commons/d/dd/Flag_of_Oman.svg",
+		"map": "https://upload.wikimedia.org/wikipedia/commons/e/e2/Oman_%28better%29_%28orthographic_projection%29.svg",
+		"name": "Oman",
+		"domesticNames": [{ "lang": "ar", "text": "عُمان – سلطنة عُمان‎" }],
+		"capital": "Muscat",
+		"population": 4520471,
+		"area": 309500
+	},
+	{
+		"continent": "Asia",
+		"flag": "https://upload.wikimedia.org/wikipedia/commons/3/32/Flag_of_Pakistan.svg",
+		"map": "https://upload.wikimedia.org/wikipedia/commons/b/b6/Pakistan_%28orthographic_projection%29.svg",
+		"name": "Pakistan",
+		"domesticNames": [
+			{ "lang": "en", "text": "Pakistan – Islamic Republic of Pakistan" },
+			{ "lang": "ur", "text": "پَاکِسْتَان – اسلامی جمہوریہ پاکستان" }
+		],
+		"capital": "Islamabad",
+		"population": 231402117,
+		"area": 881913
+	},
+	{
+		"continent": "Asia",
+		"flag": "https://upload.wikimedia.org/wikipedia/commons/9/99/Flag_of_the_Philippines.svg",
+		"map": "https://upload.wikimedia.org/wikipedia/commons/6/6d/PHL_orthographic.svg",
+		"name": "Philippines",
+		"domesticNames": [
+			{ "lang": "en", "text": "Philippines – Republic of the Philippines" },
+			{ "lang": "fil", "text": "Pilipinas – Republika ng Pilipinas" }
+		],
+		"capital": "Manila",
+		"population": 113880328,
+		"area": 343448
+	},
+	{
+		"continent": "Asia",
+		"flag": "https://upload.wikimedia.org/wikipedia/commons/6/65/Flag_of_Qatar.svg",
+		"map": "https://upload.wikimedia.org/wikipedia/commons/d/d4/QAT_orthographic.svg",
+		"name": "Qatar",
+		"domesticNames": [{ "lang": "ar", "text": "قطر – دولة قطر‎" }],
+		"capital": "Doha",
+		"population": 2688235,
+		"area": 11586
+	},
+	{
+		"continent": "Asia",
+		"flag": "https://upload.wikimedia.org/wikipedia/en/f/f3/Flag_of_Russia.svg",
+		"map": "https://upload.wikimedia.org/wikipedia/commons/5/5e/Russian_Federation_%28orthographic_projection%29_-_All_Territorial_Disputes.svg",
+		"name": "Russia",
+		"domesticNames": [
+			{ "lang": "ru", "text": "Росси́я – Российская Федерация" }
+		],
+		"capital": "Moscow",
+		"population": 145102755,
+		"area": 17098242
+	},
+	{
+		"continent": "Asia",
+		"flag": "https://upload.wikimedia.org/wikipedia/commons/0/0d/Flag_of_Saudi_Arabia.svg",
+		"map": "https://upload.wikimedia.org/wikipedia/commons/4/47/Saudi_Arabia_%28orthographic_projection%29.svg",
+		"name": "Saudi Arabia",
+		"domesticNames": [
+			{ "lang": "ar", "text": "السعودية – المملكة العربية السعودية‎" }
+		],
+		"capital": "Riyadh",
+		"population": 35950396,
+		"area": 2149690
+	},
+	{
+		"continent": "Asia",
+		"flag": "https://upload.wikimedia.org/wikipedia/commons/4/48/Flag_of_Singapore.svg",
+		"map": "https://upload.wikimedia.org/wikipedia/commons/3/37/Singapore_on_the_globe_%28Southeast_Asia_centered%29_zoom.svg",
+		"name": "Singapore",
+		"domesticNames": [
+			{ "lang": "zh", "text": "新加坡 – 新加坡共和国" },
+			{ "lang": "en", "text": "Singapore – Republic of Singapore" },
+			{ "lang": "ms", "text": "Singapura – Republik Singapura" },
+			{ "lang": "ta", "text": "சிங்கப்பூர் – சிங்கப்பூர் குடியரசு" }
+		],
+		"capital": "Singapore",
+		"population": 5941060,
+		"area": 697
+	},
+	{
+		"continent": "Asia",
+		"flag": "https://upload.wikimedia.org/wikipedia/commons/1/11/Flag_of_Sri_Lanka.svg",
+		"map": "https://upload.wikimedia.org/wikipedia/commons/9/96/Sri_Lanka_%28orthographic_projection%29.svg",
+		"name": "Sri Lanka",
+		"domesticNames": [
+			{
+				"lang": "si",
+				"text": "ශ්‍රී ලංකාව – ශ්‍රී ලංකා ප්‍රජාතාන්ත්‍රික සමාජවාදී ජනරජය"
+			},
+			{ "lang": "ta", "text": "இலங்கை – இலங்கை ஜனநாயக சமத்துவ குடியரசு" }
+		],
+		"capital": "Sri Jayawardenepura Kotte",
+		"population": 21773441,
+		"area": 65610
+	},
+	{
+		"continent": "Asia",
+		"flag": "https://upload.wikimedia.org/wikipedia/commons/5/53/Flag_of_Syria.svg",
+		"map": "https://upload.wikimedia.org/wikipedia/commons/6/68/Syria_%28orthographic_projection%29_disputed.svg",
+		"name": "Syria",
+		"domesticNames": [
+			{ "lang": "ar", "text": "سورية / سوريا – الجمهورية العربية السورية‎" }
+		],
+		"capital": "Damascus",
+		"population": 21324367,
+		"area": 185180
+	},
+	{
+		"continent": "Asia",
+		"flag": "https://upload.wikimedia.org/wikipedia/commons/d/d0/Flag_of_Tajikistan.svg",
+		"map": "https://upload.wikimedia.org/wikipedia/commons/a/a1/Tajikistan_%28orthographic_projection%29.svg",
+		"name": "Tajikistan",
+		"domesticNames": [
+			{ "lang": "tg", "text": "Тоҷикистон – Ҷумҳурии Тоҷикистон" }
+		],
+		"capital": "Dushanbe",
+		"population": 9750064,
+		"area": 143100
+	},
+	{
+		"continent": "Asia",
+		"flag": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Flag_of_Thailand.svg",
+		"map": "https://upload.wikimedia.org/wikipedia/commons/6/6d/Thailand_%28orthographic_projection%29.svg",
+		"name": "Thailand",
+		"domesticNames": [{ "lang": "th", "text": "ไทย – ราชอาณาจักรไทย" }],
+		"capital": "Bangkok",
+		"population": 71601103,
+		"area": 513120
+	},
+	{
+		"continent": "Asia",
+		"flag": "https://upload.wikimedia.org/wikipedia/commons/b/b4/Flag_of_Turkey.svg",
+		"map": "https://upload.wikimedia.org/wikipedia/commons/d/dd/Turkey_%28orthographic_projection%29.svg",
+		"name": "Turkey",
+		"domesticNames": [
+			{ "lang": "tr", "text": "Türkiye – Türkiye Cumhuriyeti" }
+		],
+		"capital": "Ankara",
+		"population": 84775404,
+		"area": 783562
+	},
+	{
+		"continent": "Asia",
+		"flag": "https://upload.wikimedia.org/wikipedia/commons/1/1b/Flag_of_Turkmenistan.svg",
+		"map": "https://upload.wikimedia.org/wikipedia/commons/5/59/Turkmenistan_on_the_globe_%28Eurasia_centered%29.svg",
+		"name": "Turkmenistan",
+		"domesticNames": [{ "lang": "tk", "text": "Türkmenistan" }],
+		"capital": "Ashgabat",
+		"population": 6341855,
+		"area": 488100
+	},
+	{
+		"continent": "Asia",
+		"flag": "https://upload.wikimedia.org/wikipedia/commons/c/cb/Flag_of_the_United_Arab_Emirates.svg",
+		"map": "https://upload.wikimedia.org/wikipedia/commons/c/cd/United_Arab_Emirates_%28orthographic_projection%29.svg",
+		"name": "United Arab Emirates",
+		"domesticNames": [
+			{ "lang": "ar", "text": "اﻹﻣﺎرات – دولة الإمارات العربية المتحدة‎" }
+		],
+		"capital": "Abu Dhabi",
+		"population": 9365145,
+		"area": 83600
+	},
+	{
+		"continent": "Asia",
+		"flag": "https://upload.wikimedia.org/wikipedia/commons/8/84/Flag_of_Uzbekistan.svg",
+		"map": "https://upload.wikimedia.org/wikipedia/commons/6/6d/Uzbekistan_%28centered_orthographic_projection%29.svg",
+		"name": "Uzbekistan",
+		"domesticNames": [
+			{
+				"lang": "uz",
+				"text": "Ўзбекистон – Ўзбекистон Республикаси (O‘zbekiston – O‘zbekiston Respublikasi)"
+			}
+		],
+		"capital": "Tashkent",
+		"population": 34081449,
+		"area": 447400
+	},
+	{
+		"continent": "Asia",
+		"flag": "https://upload.wikimedia.org/wikipedia/commons/2/21/Flag_of_Vietnam.svg",
+		"map": "https://upload.wikimedia.org/wikipedia/commons/2/28/Vietnam_%28orthographic_projection%29.svg",
+		"name": "Vietnam",
+		"domesticNames": [
+			{ "lang": "vi", "text": "Việt Nam – Cộng Hòa Xã Hội Chủ Nghĩa Việt Nam" }
+		],
+		"capital": "Hanoi",
+		"population": 97468029,
+		"area": 332698
+	},
+	{
+		"continent": "Asia",
+		"flag": "https://upload.wikimedia.org/wikipedia/commons/8/89/Flag_of_Yemen.svg",
+		"map": "https://upload.wikimedia.org/wikipedia/commons/f/f1/Yemen_%28orthographic_projection%29.svg",
+		"name": "Yemen",
+		"domesticNames": [{ "lang": "ar", "text": "اليمن – الجمهورية اليمنية‎" }],
+		"capital": "Sana'a",
+		"population": 32981641,
+		"area": 527968
+	},
+	{
+		"continent": "Oceania",
+		"flag": "https://upload.wikimedia.org/wikipedia/en/b/b9/Flag_of_Australia.svg",
+		"map": "https://upload.wikimedia.org/wikipedia/commons/7/7d/Australia_%28orthographic_projection%29.svg",
+		"name": "Australia",
+		"domesticNames": [
+			{ "lang": "en", "text": "Australia — Commonwealth of Australia" }
+		],
+		"capital": "Canberra",
+		"population": 25921089,
+		"area": 7741220
+	},
+	{
+		"continent": "Oceania",
+		"flag": "https://upload.wikimedia.org/wikipedia/commons/e/e4/Flag_of_the_Federated_States_of_Micronesia.svg",
+		"map": "https://upload.wikimedia.org/wikipedia/commons/5/51/LocationMicronesia.png",
+		"name": "Federated States of Micronesia",
+		"domesticNames": [
+			{ "lang": "en", "text": "Federated States of Micronesia" }
+		],
+		"capital": "Palikir",
+		"population": 113131,
+		"area": 702
+	},
+	{
+		"continent": "Oceania",
+		"flag": "https://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Fiji.svg",
+		"map": "https://upload.wikimedia.org/wikipedia/commons/2/22/LocationFiji.png",
+		"name": "Fiji",
+		"domesticNames": [
+			{ "lang": "en", "text": "Fiji — Republic of Fiji" },
+			{ "lang": "fj", "text": "Viti — Matanitu ko Viti" }
+		],
+		"capital": "Suva",
+		"population": 924610,
+		"area": 18274
+	},
+	{
+		"continent": "Oceania",
+		"flag": "https://upload.wikimedia.org/wikipedia/commons/d/d3/Flag_of_Kiribati.svg",
+		"map": "https://upload.wikimedia.org/wikipedia/commons/6/6f/LocationKiribati.png",
+		"name": "Kiribati",
+		"domesticNames": [
+			{ "lang": "en", "text": "Kiribati — Republic of Kiribati" },
+			{ "lang": "gil", "text": "Kiribati — Ribaberiki Kiribati" }
+		],
+		"capital": "South Tarawa",
+		"population": 128874,
+		"area": 811
+	},
+	{
+		"continent": "Oceania",
+		"flag": "https://upload.wikimedia.org/wikipedia/commons/2/2e/Flag_of_the_Marshall_Islands.svg",
+		"map": "https://upload.wikimedia.org/wikipedia/commons/6/65/LocationMarshallIslands.png",
+		"name": "Marshall Islands",
+		"domesticNames": [
+			{
+				"lang": "en",
+				"text": "Marshall Islands — Republic of the Marshall Islands"
+			},
+			{ "lang": "mh", "text": "Aelōn̄ in M̧ajeļ - Aolepān Aorōkin M̧ajeļ" }
+		],
+		"capital": "Majuro",
+		"population": 42050,
+		"area": 181
+	},
+	{
+		"continent": "Oceania",
+		"flag": "https://upload.wikimedia.org/wikipedia/commons/3/30/Flag_of_Nauru.svg",
+		"map": "https://upload.wikimedia.org/wikipedia/commons/2/21/NRU_orthographic.svg",
+		"name": "Nauru",
+		"domesticNames": [
+			{ "lang": "en", "text": "Nauru — Republic of Nauru" },
+			{ "lang": "na", "text": "Naoero - Repubrikin Naoero" }
+		],
+		"capital": "Yaren",
+		"population": 10834,
+		"area": 21
+	},
+	{
+		"continent": "Oceania",
+		"flag": "https://upload.wikimedia.org/wikipedia/commons/3/3e/Flag_of_New_Zealand.svg",
+		"map": "https://upload.wikimedia.org/wikipedia/commons/d/d8/New_Zealand_%28orthographic_projection%29.svg",
+		"name": "New Zealand",
+		"domesticNames": [
+			{ "lang": "en", "text": "New Zealand" },
+			{ "lang": "mi", "text": "Aotearoa" }
+		],
+		"capital": "Wellington",
+		"population": 5129727,
+		"area": 267710
+	},
+	{
+		"continent": "Oceania",
+		"flag": "https://upload.wikimedia.org/wikipedia/commons/4/48/Flag_of_Palau.svg",
+		"map": "https://upload.wikimedia.org/wikipedia/commons/5/5c/LocationPalau.png",
+		"name": "Palau",
+		"domesticNames": [
+			{ "lang": "en", "text": "Palau — Republic of Palau" },
+			{ "lang": "pau", "text": "Belau — Beluu er a Belau" }
+		],
+		"capital": "Ngerulmud",
+		"population": 18024,
+		"area": 459
+	},
+	{
+		"continent": "Oceania",
+		"flag": "https://upload.wikimedia.org/wikipedia/commons/e/e3/Flag_of_Papua_New_Guinea.svg",
+		"map": "https://upload.wikimedia.org/wikipedia/commons/7/79/Papua_New_Guinea_%28orthographic_projection%29.svg",
+		"name": "Papua New Guinea",
+		"domesticNames": [
+			{
+				"lang": "en",
+				"text": "Papua New Guinea — Independent State of Papua New Guinea"
+			},
+			{
+				"lang": "tpi",
+				"text": "Papua Niugini — Independen Stet bilong Papua Niugini"
+			}
+		],
+		"capital": "Port Moresby",
+		"population": 9949437,
+		"area": 462840
+	},
+	{
+		"continent": "Oceania",
+		"flag": "https://upload.wikimedia.org/wikipedia/commons/3/31/Flag_of_Samoa.svg",
+		"map": "https://upload.wikimedia.org/wikipedia/commons/e/e7/LocationSamoa.png",
+		"name": "Samoa",
+		"domesticNames": [
+			{ "lang": "en", "text": "Samoa — Independent State of Samoa" },
+			{ "lang": "sm", "text": "Samoa — Malo Sa‘oloto Tuto'atasi o Samoa" }
+		],
+		"capital": "Apia",
+		"population": 218764,
+		"area": 2831
+	},
+	{
+		"continent": "Oceania",
+		"flag": "https://upload.wikimedia.org/wikipedia/commons/7/74/Flag_of_the_Solomon_Islands.svg",
+		"map": "https://upload.wikimedia.org/wikipedia/commons/5/5c/LocationSolomonIslands.png",
+		"name": "Solomon Islands",
+		"domesticNames": [
+			{ "lang": "en", "text": "Solomon Islands" },
+			{ "lang": "pis", "text": "Solomon Aelan" }
+		],
+		"capital": "Honiara",
+		"population": 707851,
+		"area": 28896
+	},
+	{
+		"continent": "Oceania",
+		"flag": "https://upload.wikimedia.org/wikipedia/commons/9/9a/Flag_of_Tonga.svg",
+		"map": "https://upload.wikimedia.org/wikipedia/commons/0/09/LocationTonga.png",
+		"name": "Tonga",
+		"domesticNames": [
+			{ "lang": "en", "text": "Tonga — Kingdom of Tonga" },
+			{ "lang": "to", "text": "Tonga — Pule'anga Tonga" }
+		],
+		"capital": "Nukuʻalofa",
+		"population": 106017,
+		"area": 747
+	},
+	{
+		"continent": "Oceania",
+		"flag": "https://upload.wikimedia.org/wikipedia/commons/3/38/Flag_of_Tuvalu.svg",
+		"map": "https://upload.wikimedia.org/wikipedia/commons/e/ed/LocationTuvalu.png",
+		"name": "Tuvalu",
+		"domesticNames": [
+			{ "lang": "en", "text": "Tuvalu" },
+			{ "lang": "tvl", "text": "Tuvalu" }
+		],
+		"capital": "Funafuti",
+		"population": 11204,
+		"area": 26
+	},
+	{
+		"continent": "Oceania",
+		"flag": "https://upload.wikimedia.org/wikipedia/commons/b/bc/Flag_of_Vanuatu.svg",
+		"map": "https://upload.wikimedia.org/wikipedia/commons/4/47/LocationVanuatu.png",
+		"name": "Vanuatu",
+		"domesticNames": [
+			{ "lang": "bi", "text": "Vanuatu — Ripablik blong Vanuatu" },
+			{ "lang": "en", "text": "Vanuatu — Republic of Vanuatu" },
+			{ "lang": "fr", "text": "Vanuatu — République de Vanuatu" }
+		],
+		"capital": "Port Vila",
+		"population": 319137,
+		"area": 12189
+	}
+]
